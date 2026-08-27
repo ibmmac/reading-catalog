@@ -20,6 +20,7 @@ Started: August 27, 2026
 - **Format:** Paperback · 32 pages
 - **Ages:** 4–8
 - **About:** A rhyming first-day-of-school story. Kids pack supplies, feel excited and a little scared, and find out kindergarten can be fun.
+- **How we read it:** Swapped “kindergarten” for “2nd grade” — Wednesday, August 26 was the first day of second grade.
 - **Read?** [x] — Tuesday, August 25, 2026 · Mitch
 
 ---
@@ -63,7 +64,8 @@ Started: August 27, 2026
 - **ISBN:** `978-0-448-40036-5`
 - **Format:** Hardcover · 32 pages
 - **Ages:** about 6–10 (gentle spooky humor)
-- **About:** Garfield faces a spooky hotel, a mysterious package, a computer gone haywire, and other silly scares. More laughs than frights.
+- **About:** Five stories: The Midnight Stalker, Surprise Package, Terminal Terror, A Ghost’s Story (camping), and The Closet Thing.
+- **Favorites:** *Terminal Terror* and the camping story (*A Ghost’s Story*).
 - **Read?** [x] — Monday, August 24, 2026 · Mitch
 
 ---
@@ -124,6 +126,8 @@ Catalog created. No new reading today.
 
 ### 2026-08-26 — Wednesday
 
+First day of second grade.
+
 - **Book:** none
 - **Who read:** Amy
 - **Notes:** Amy did not read any of these books yesterday.
@@ -132,12 +136,11 @@ Catalog created. No new reading today.
 
 ### 2026-08-25 — Tuesday
 
-Four books, all read by Mitch.
+Four books, all read by Mitch. Night-before energy for the first day of second grade.
 
 - **Book:** *The Night Before Kindergarten*
 - **Who read:** Mitch
-- **Stars:**
-- **Favorite part:**
+- **Favorite part:** Read it as *The Night Before 2nd Grade* — swapped “kindergarten” for “2nd grade” because Wednesday was the first day of second grade.
 - **Read it again?**
 
 - **Book:** *Cowboy Car*
@@ -164,9 +167,7 @@ Four books, all read by Mitch.
 
 - **Book:** *Garfield’s Scary Tales*
 - **Who read:** Mitch
-- **Stars:**
-- **Favorite part:**
-- **New word or question:**
+- **Favorite part:** *Terminal Terror* (the computer that comes alive) and the camping story (*A Ghost’s Story*, with the lumberjack around the campfire).
 - **Read it again?**
 
 ---
