@@ -1,0 +1,130 @@
+# Books We Read
+
+A catalog of books on our shelf, with covers, plus a log we can update every day.
+
+Reader: ______________________  
+Started: August 27, 2026
+
+---
+
+## On the shelf
+
+### 1. The Night Before Kindergarten
+
+![Cover of The Night Before Kindergarten](https://covers.openlibrary.org/b/isbn/9780448425009-L.jpg)
+
+- **Author:** Natasha Wing
+- **Illustrated by:** Julie Durrell
+- **Publisher:** Grosset & Dunlap (2001)
+- **ISBN:** `978-0-448-42500-9`
+- **Format:** Paperback · 32 pages
+- **Ages:** 4–8
+- **About:** A rhyming first-day-of-school story. Kids pack supplies, feel excited and a little scared, and find out kindergarten can be fun.
+- **Read?** [ ]
+
+---
+
+### 2. Cowboy Car
+
+![Cover of Cowboy Car](https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg)
+
+- **Author:** Jeanie Franz Ransom
+- **Illustrated by:** Ovi Nedelcu
+- **Publisher:** Two Lions (2017)
+- **ISBN:** `978-1-5039-5097-9`
+- **Format:** Hardcover · 40 pages
+- **Ages:** 3–7
+- **About:** Little Car has wanted to be a cowboy since he was knee-high to his daddy’s hubcaps. Everyone says cars can’t be cowboys — so he heads Out West to prove them wrong.
+- **Read?** [ ]
+
+---
+
+### 3. Except Antarctica!
+
+![Cover of Except Antarctica](https://covers.openlibrary.org/b/isbn/9781728233260-L.jpg)
+
+- **Author / illustrator:** Todd Sturgell
+- **Publisher:** Sourcebooks Explore (2021)
+- **ISBN:** `978-1-7282-3326-0`
+- **Format:** Hardcover · 40 pages
+- **Ages:** 4–8
+- **About:** Turtles, owls, snakes, and beetles live on every continent — except Antarctica. One stubborn turtle decides to change that and takes friends along.
+- **Read?** [ ]
+
+---
+
+### 4. Garfield’s Scary Tales
+
+![Cover of Garfield's Scary Tales](https://covers.openlibrary.org/b/isbn/9780448400365-L.jpg)
+
+- **Author:** Jim Kraft (Garfield created by Jim Davis)
+- **Illustrated by:** Mike Fentz
+- **Publisher:** Grosset & Dunlap (1990)
+- **ISBN:** `978-0-448-40036-5`
+- **Format:** Hardcover · 32 pages
+- **Ages:** about 6–10 (gentle spooky humor)
+- **About:** Garfield faces a spooky hotel, a mysterious package, a computer gone haywire, and other silly scares. More laughs than frights.
+- **Read?** [ ]
+
+---
+
+### 5. My, Oh My—A Butterfly!
+
+![Cover of My, Oh My—A Butterfly!](https://covers.openlibrary.org/b/isbn/9780375828829-L.jpg)
+
+- **Title:** *My, Oh My—A Butterfly! All About Butterflies*
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Tish Rabe (characters created by Dr. Seuss)
+- **Illustrated by:** Aristides Ruiz & Joe Mathieu
+- **Publisher:** HarperCollins (this copy) / Random House (US)
+- **ISBN (this copy):** `978-0-00-810098-8` · US: `978-0-375-82882-9`
+- **Format:** Paperback · 48 pages
+- **Ages:** 4–8
+- **About:** The Cat in the Hat teaches beginning readers about butterflies, caterpillars, and moths — eggs, chrysalises, nectar “straws,” and monarch journeys.
+- **Read?** [ ]
+
+---
+
+## How to add a new book
+
+Copy a card above. For the cover picture, you can:
+
+1. Search the ISBN on [Open Library](https://openlibrary.org) and use  
+   `https://covers.openlibrary.org/b/isbn/YOURISBN-L.jpg`
+2. Or use the Amazon pattern  
+   `https://images-na.ssl-images-amazon.com/images/P/ISBN10.01.LZZZZZZZ.jpg`
+3. Or send Ellie a photo and ask her to add it
+
+---
+
+## Daily reading log
+
+Add a new day at the **top** of this list so the newest reading is first.
+
+### Template (copy this)
+
+```
+### YYYY-MM-DD — weekday
+
+- **Book:**
+- **Who read:** (Dad / Mom / together / solo)
+- **Stars:** ★★★★☆
+- **Favorite part:**
+- **New word or question:**
+- **Read it again?** yes / not yet
+```
+
+---
+
+### 2026-08-27 — Thursday
+
+Catalog created from the five books on the shelf. No reading logged yet.
+
+- **Book:**
+- **Who read:**
+- **Stars:**
+- **Favorite part:**
+- **New word or question:**
+- **Read it again?**
+
+---
