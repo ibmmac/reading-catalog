@@ -2,7 +2,7 @@
 
 A catalog of books on our shelf, with covers, plus a log we can update every day.
 
-Reader: ______________________  
+Reader: Mitch (Dad) · also Amy  
 Started: August 27, 2026
 
 ---
@@ -20,7 +20,7 @@ Started: August 27, 2026
 - **Format:** Paperback · 32 pages
 - **Ages:** 4–8
 - **About:** A rhyming first-day-of-school story. Kids pack supplies, feel excited and a little scared, and find out kindergarten can be fun.
-- **Read?** [ ]
+- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -35,7 +35,7 @@ Started: August 27, 2026
 - **Format:** Hardcover · 40 pages
 - **Ages:** 3–7
 - **About:** Little Car has wanted to be a cowboy since he was knee-high to his daddy’s hubcaps. Everyone says cars can’t be cowboys — so he heads Out West to prove them wrong.
-- **Read?** [ ]
+- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -49,7 +49,7 @@ Started: August 27, 2026
 - **Format:** Hardcover · 40 pages
 - **Ages:** 4–8
 - **About:** Turtles, owls, snakes, and beetles live on every continent — except Antarctica. One stubborn turtle decides to change that and takes friends along.
-- **Read?** [ ]
+- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -64,7 +64,7 @@ Started: August 27, 2026
 - **Format:** Hardcover · 32 pages
 - **Ages:** about 6–10 (gentle spooky humor)
 - **About:** Garfield faces a spooky hotel, a mysterious package, a computer gone haywire, and other silly scares. More laughs than frights.
-- **Read?** [ ]
+- **Read?** [x] — Monday, August 24, 2026 · Mitch
 
 ---
 
@@ -81,7 +81,7 @@ Started: August 27, 2026
 - **Format:** Paperback · 48 pages
 - **Ages:** 4–8
 - **About:** The Cat in the Hat teaches beginning readers about butterflies, caterpillars, and moths — eggs, chrysalises, nectar “straws,” and monarch journeys.
-- **Read?** [ ]
+- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -118,10 +118,52 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 ### 2026-08-27 — Thursday
 
-Catalog created from the five books on the shelf. No reading logged yet.
+Catalog created. No new reading today.
 
-- **Book:**
-- **Who read:**
+---
+
+### 2026-08-26 — Wednesday
+
+- **Book:** none
+- **Who read:** Amy
+- **Notes:** Amy did not read any of these books yesterday.
+
+---
+
+### 2026-08-25 — Tuesday
+
+Four books, all read by Mitch.
+
+- **Book:** *The Night Before Kindergarten*
+- **Who read:** Mitch
+- **Stars:**
+- **Favorite part:**
+- **Read it again?**
+
+- **Book:** *Cowboy Car*
+- **Who read:** Mitch
+- **Stars:**
+- **Favorite part:**
+- **Read it again?**
+
+- **Book:** *Except Antarctica!*
+- **Who read:** Mitch
+- **Stars:**
+- **Favorite part:**
+- **Read it again?**
+
+- **Book:** *My, Oh My—A Butterfly!*
+- **Who read:** Mitch
+- **Stars:**
+- **Favorite part:**
+- **Read it again?**
+
+---
+
+### 2026-08-24 — Monday
+
+- **Book:** *Garfield’s Scary Tales*
+- **Who read:** Mitch
 - **Stars:**
 - **Favorite part:**
 - **New word or question:**
