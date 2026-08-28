@@ -87,15 +87,17 @@ Started: August 27, 2026
 
 ---
 
-### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9
+### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9 / *Whacky Jack!*
 
-![Hooked on Phonics Pre-reader](https://shop.hookedonphonics.com/cdn/shop/files/PreReader_Steps7-9.png)
+![Whacky Jack cover](https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg)
 
-- **Publisher:** Hooked & Company (H&Co.)
+- **One book:** pink *Hooked on Phonics Pre-reader Steps 7, 8 & 9* cover and *Whacky Jack!* story cover are the two sides of the same book.
+- **Story:** *Whacky Jack!* by Jonathan London, illustrated by Doug Cushman — Jack the raccoon learns baseball.
+- **Publisher:** Hooked & Company (H&Co.) / Hooked on Phonics
 - **Code on copy:** `16024 (08/24)` · hookedandcompany.com
-- **Format:** Workbook / pre-reader pack
-- **Ages:** about 4–6
-- **About:** Finishes lowercase letters e, w, j, p, y, x, q, and z. Pack also pairs with storybooks *Whacky Jack* and *Make Room for Zelda*.
+- **Story ISBN (older printing):** `978-1-887942-42-3`
+- **Ages:** early reader
+- **About:** Letter practice for e, w, j, p, y, x, q, and z, plus the baseball story.
 - **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
 
 ---
@@ -146,21 +148,6 @@ Started: August 27, 2026
 
 ---
 
-### 10. Whacky Jack!
-
-![Cover of Whacky Jack](https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg)
-
-- **Author:** Jonathan London
-- **Illustrated by:** Doug Cushman
-- **Publisher:** Hooked on Phonics / Gateway Learning (1998)
-- **ISBN:** `978-1-887942-42-3`
-- **Format:** Paperback
-- **Ages:** early reader
-- **About:** Jack the raccoon learns to play baseball. Often bundled with Hooked on Phonics Pre-reader Steps 7–9.
-- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
-
----
-
 ## How to add a new book
 
 Copy a card above. For the cover picture, you can:
@@ -194,11 +181,11 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 ### 2026-08-27 — Thursday
 
-Bedtime stack. All five read by Mitch.
+Bedtime stack. Four books, all read by Mitch.
 
-- **Book:** *Hooked on Phonics Pre-reader — Steps 7, 8 & 9*
+- **Book:** *Hooked on Phonics Pre-reader Steps 7, 8 & 9* / *Whacky Jack!*
 - **Who read:** Mitch
-- **Notes:** Workbook / letter practice (e, w, j, p, y, x, q, z).
+- **Notes:** Same book — pink phonics cover and *Whacky Jack!* story cover. Jack the raccoon plays baseball; letters e, w, j, p, y, x, q, z.
 
 - **Book:** *On Beyond Bugs! All About Insects*
 - **Who read:** Mitch
@@ -211,10 +198,6 @@ Bedtime stack. All five read by Mitch.
 - **Book:** *There Was an Old Lady Who Swallowed a Fly*
 - **Who read:** Mitch
 - **Notes:** Child’s Play die-cut edition with CD.
-
-- **Book:** *Whacky Jack!*
-- **Who read:** Mitch
-- **Notes:** Baseball raccoon story from the Hooked on Phonics set.
 
 ---
 
