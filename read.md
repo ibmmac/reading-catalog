@@ -87,6 +87,80 @@ Started: August 27, 2026
 
 ---
 
+### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9
+
+![Hooked on Phonics Pre-reader](https://shop.hookedonphonics.com/cdn/shop/files/PreReader_Steps7-9.png)
+
+- **Publisher:** Hooked & Company (H&Co.)
+- **Code on copy:** `16024 (08/24)` · hookedandcompany.com
+- **Format:** Workbook / pre-reader pack
+- **Ages:** about 4–6
+- **About:** Finishes lowercase letters e, w, j, p, y, x, q, and z. Pack also pairs with storybooks *Whacky Jack* and *Make Room for Zelda*.
+- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+
+---
+
+### 7. On Beyond Bugs!
+
+![Cover of On Beyond Bugs](https://covers.openlibrary.org/b/isbn/9780679873037-L.jpg)
+
+- **Title:** *On Beyond Bugs! All About Insects*
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Tish Rabe
+- **Illustrated by:** Aristides Ruiz
+- **Publisher:** Random House (1999) · 48 pages
+- **ISBN:** `978-0-679-87303-7`
+- **Ages:** 4–8
+- **About:** The Cat in the Hat tours insects — bees that dance, buzzing flies, ants, moths, and more — in Seuss-style rhyme. Nice pair with *My, Oh My—A Butterfly!*
+- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+
+---
+
+### 8. Don’t Close Your Eyes
+
+![Cover of Don't Close Your Eyes](https://covers.openlibrary.org/b/isbn/9781400209514-L.jpg)
+
+- **Title:** *Don’t Close Your Eyes: A Silly Bedtime Story*
+- **Author:** Bob Hostetler
+- **Illustrated by:** Mark Chambers
+- **Publisher:** Tommy Nelson / Thomas Nelson (2019)
+- **ISBN:** `978-1-4002-0951-4`
+- **Format:** Board book · about 20 pages · cover price $9.99
+- **Ages:** toddler–early reader
+- **About:** A bedtime dare: whatever you do, don’t close your eyes. Sleepy animals settle in while the rhyme tries to keep little lids open… until they can’t.
+- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+
+---
+
+### 9. There Was an Old Lady Who Swallowed a Fly
+
+![Cover of There Was an Old Lady Who Swallowed a Fly](https://covers.openlibrary.org/b/isbn/9781904550624-L.jpg)
+
+- **Illustrated by:** Pam Adams
+- **Publisher:** Child’s Play — Classic Books with Holes (this copy includes CD)
+- **ISBN:** `978-1-904550-62-4`
+- **Format:** Paperback with die-cut holes · about 16 pages
+- **Ages:** 2–6
+- **About:** The classic cumulative rhyme. Holes in the pages show each new animal she swallows.
+- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+
+---
+
+### 10. Whacky Jack!
+
+![Cover of Whacky Jack](https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg)
+
+- **Author:** Jonathan London
+- **Illustrated by:** Doug Cushman
+- **Publisher:** Hooked on Phonics / Gateway Learning (1998)
+- **ISBN:** `978-1-887942-42-3`
+- **Format:** Paperback
+- **Ages:** early reader
+- **About:** Jack the raccoon learns to play baseball. Often bundled with Hooked on Phonics Pre-reader Steps 7–9.
+- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+
+---
+
 ## How to add a new book
 
 Copy a card above. For the cover picture, you can:
@@ -120,7 +194,27 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 ### 2026-08-27 — Thursday
 
-Catalog created. No new reading today.
+Bedtime stack. All five read by Mitch.
+
+- **Book:** *Hooked on Phonics Pre-reader — Steps 7, 8 & 9*
+- **Who read:** Mitch
+- **Notes:** Workbook / letter practice (e, w, j, p, y, x, q, z).
+
+- **Book:** *On Beyond Bugs! All About Insects*
+- **Who read:** Mitch
+- **Notes:** Cat in the Hat Learning Library — pairs with Tuesday’s butterfly book.
+
+- **Book:** *Don’t Close Your Eyes*
+- **Who read:** Mitch
+- **Notes:** Silly bedtime dare with sleepy animals.
+
+- **Book:** *There Was an Old Lady Who Swallowed a Fly*
+- **Who read:** Mitch
+- **Notes:** Child’s Play die-cut edition with CD.
+
+- **Book:** *Whacky Jack!*
+- **Who read:** Mitch
+- **Notes:** Baseball raccoon story from the Hooked on Phonics set.
 
 ---
 
