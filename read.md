@@ -11,7 +11,7 @@ Started: August 27, 2026
 
 ### 1. The Night Before Kindergarten
 
-![Cover of The Night Before Kindergarten](https://covers.openlibrary.org/b/isbn/9780448425009-L.jpg)
+![Cover of The Night Before Kindergarten](https://images.randomhouse.com/cover/9780448425009)
 
 - **Author:** Natasha Wing
 - **Illustrated by:** Julie Durrell
@@ -42,7 +42,7 @@ Started: August 27, 2026
 
 ### 3. Except Antarctica!
 
-![Cover of Except Antarctica](https://covers.openlibrary.org/b/isbn/9781728233260-L.jpg)
+![Cover of Except Antarctica](https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg)
 
 - **Author / illustrator:** Todd Sturgell
 - **Publisher:** Sourcebooks Explore (2021)
@@ -56,7 +56,7 @@ Started: August 27, 2026
 
 ### 4. Garfield’s Scary Tales
 
-![Cover of Garfield's Scary Tales](https://covers.openlibrary.org/b/isbn/9780448400365-L.jpg)
+![Cover of Garfield's Scary Tales](https://pictures.abebooks.com/isbn/9780448400365-us-300.jpg)
 
 - **Author:** Jim Kraft (Garfield created by Jim Davis)
 - **Illustrated by:** Mike Fentz
@@ -72,7 +72,7 @@ Started: August 27, 2026
 
 ### 5. My, Oh My—A Butterfly!
 
-![Cover of My, Oh My—A Butterfly!](https://covers.openlibrary.org/b/isbn/9780375828829-L.jpg)
+![Cover of My, Oh My—A Butterfly!](https://images.randomhouse.com/cover/9780375828829)
 
 - **Title:** *My, Oh My—A Butterfly! All About Butterflies*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -89,7 +89,7 @@ Started: August 27, 2026
 
 ### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9 / *Whacky Jack!*
 
-![Whacky Jack cover](https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg)
+![Whacky Jack cover](https://pictures.abebooks.com/isbn/9781887942423-us-300.jpg)
 
 - **One book:** pink *Hooked on Phonics Pre-reader Steps 7, 8 & 9* cover and *Whacky Jack!* story cover are the two sides of the same book.
 - **Story:** *Whacky Jack!* by Jonathan London, illustrated by Doug Cushman — Jack the raccoon learns baseball.
@@ -104,7 +104,7 @@ Started: August 27, 2026
 
 ### 7. On Beyond Bugs!
 
-![Cover of On Beyond Bugs](https://covers.openlibrary.org/b/isbn/9780679873037-L.jpg)
+![Cover of On Beyond Bugs](https://images-na.ssl-images-amazon.com/images/P/0679873031.01.LZZZZZZZ.jpg)
 
 - **Title:** *On Beyond Bugs! All About Insects*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -120,7 +120,7 @@ Started: August 27, 2026
 
 ### 8. Don’t Close Your Eyes
 
-![Cover of Don't Close Your Eyes](https://covers.openlibrary.org/b/isbn/9781400209514-L.jpg)
+![Cover of Don't Close Your Eyes](https://images-na.ssl-images-amazon.com/images/P/140020951X.01.LZZZZZZZ.jpg)
 
 - **Title:** *Don’t Close Your Eyes: A Silly Bedtime Story*
 - **Author:** Bob Hostetler
@@ -136,7 +136,7 @@ Started: August 27, 2026
 
 ### 9. There Was an Old Lady Who Swallowed a Fly
 
-![Cover of There Was an Old Lady Who Swallowed a Fly](https://covers.openlibrary.org/b/isbn/9781904550624-L.jpg)
+![Cover of There Was an Old Lady Who Swallowed a Fly](https://images-na.ssl-images-amazon.com/images/P/1904550622.01.LZZZZZZZ.jpg)
 
 - **Illustrated by:** Pam Adams
 - **Publisher:** Child’s Play — Classic Books with Holes (this copy includes CD)
@@ -150,7 +150,7 @@ Started: August 27, 2026
 
 ### 10. Chickens
 
-![Cover of Chickens](https://covers.openlibrary.org/b/isbn/9781567663747-L.jpg)
+![Cover of Chickens](https://images-na.ssl-images-amazon.com/images/P/1567663745.01.LZZZZZZZ.jpg)
 
 - **Author:** Mary Ann McDonald
 - **Publisher:** The Child’s World (farm-animal photo series)
@@ -166,12 +166,12 @@ Started: August 27, 2026
 
 ### 11. Swap!
 
-![Cover of Swap!](https://covers.openlibrary.org/b/isbn/9781406367768-L.jpg)
+![Cover of Swap!](https://images-na.ssl-images-amazon.com/images/P/0763679909.01.LZZZZZZZ.jpg)
 
 - **Author / illustrator:** Steve Light
-- **Publisher:** Walker Books (UK)
-- **ISBN:** `978-1-4063-6776-8`
-- **Format:** Hardcover · about 40 pages · £11.99 UK
+- **Publisher:** Walker Books (UK) / Candlewick (US ISBN `978-0-7636-7990-3`)
+- **ISBN (this copy):** `978-1-4063-6776-8`
+- **Format:** Hardcover · about 40 pages
 - **Ages:** picture book
 - **About:** A broken-down ship, a loose button, and an idea: let’s SWAP! A little pirate barters one thing for another until the captain has a ship again. Same creator as *Have You Seen My Dragon?* and *Have You Seen My Monster?*
 - **Favorite:** Saturday, August 29, 2026.
@@ -181,12 +181,12 @@ Started: August 27, 2026
 
 ### 12. It’s the Great Pumpkin, Charlie Brown
 
-![Cover of It's the Great Pumpkin, Charlie Brown](https://covers.openlibrary.org/b/isbn/9781481453887-L.jpg)
+![Cover of It's the Great Pumpkin, Charlie Brown](https://images-na.ssl-images-amazon.com/images/P/068984607X.01.LZZZZZZZ.jpg)
 
 - **Series:** Peanuts
 - **By:** Charles M. Schulz
-- **Publisher:** Simon & Schuster
-- **ISBN:** `978-1-4814-5388-7`
+- **Publisher:** Simon & Schuster / Little Simon
+- **ISBN (this copy):** `978-1-4814-5388-7`
 - **Format:** Picture book · 50 Years of The Great Pumpkin edition · $7.99
 - **About:** Halloween with the Peanuts gang. Linus waits in the pumpkin patch for the Great Pumpkin.
 - **Read?** [x] — Saturday, August 29, 2026 · Mitch
@@ -195,7 +195,7 @@ Started: August 27, 2026
 
 ### 13. The Hat
 
-![Cover of The Hat](https://covers.openlibrary.org/b/isbn/9780399547386-L.jpg)
+![Cover of The Hat](https://images-na.ssl-images-amazon.com/images/P/039954738X.01.LZZZZZZZ.jpg)
 
 - **Author / illustrator:** Jan Brett
 - **Publisher:** G.P. Putnam’s Sons / Penguin
@@ -209,7 +209,7 @@ Started: August 27, 2026
 
 ### 14. Oh, the Things They Invented!
 
-![Cover of Oh, the Things They Invented](https://covers.openlibrary.org/b/isbn/9780449814970-L.jpg)
+![Cover of Oh, the Things They Invented](https://images-na.ssl-images-amazon.com/images/P/0449814971.01.LZZZZZZZ.jpg)
 
 - **Title:** *Oh, the Things They Invented! All About Great Inventors*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -228,11 +228,12 @@ Started: August 27, 2026
 
 Copy a card above. For the cover picture, you can:
 
-1. Search the ISBN on [Open Library](https://openlibrary.org) and use  
-   `https://covers.openlibrary.org/b/isbn/YOURISBN-L.jpg`
-2. Or use the Amazon pattern  
+1. Use a working Amazon ISBN-10 URL  
    `https://images-na.ssl-images-amazon.com/images/P/ISBN10.01.LZZZZZZZ.jpg`
+2. Random House titles: `https://images.randomhouse.com/cover/978ISBN13`
 3. Or send Ellie a photo and ask her to add it
+
+Open Library cover links often return a blank 1×1 GIF, so we stopped using those.
 
 ---
 
