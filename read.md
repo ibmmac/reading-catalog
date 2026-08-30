@@ -159,6 +159,7 @@ Started: August 27, 2026
 - **Call number:** `636.5 MCD` · barcode `2934015`
 - **Source:** **On loan from Mt. View Elementary School library (MVES)** — not a home copy
 - **About:** Photo nonfiction about chickens.
+- **Favorite:** Saturday, August 29, 2026.
 - **Read?** [x] — Saturday, August 29, 2026 · Mitch
 
 ---
@@ -173,6 +174,7 @@ Started: August 27, 2026
 - **Format:** Hardcover · about 40 pages · £11.99 UK
 - **Ages:** picture book
 - **About:** A broken-down ship, a loose button, and an idea: let’s SWAP! A little pirate barters one thing for another until the captain has a ship again. Same creator as *Have You Seen My Dragon?* and *Have You Seen My Monster?*
+- **Favorite:** Saturday, August 29, 2026.
 - **Read?** [x] — Saturday, August 29, 2026 · Mitch
 
 ---
@@ -257,12 +259,15 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 Five books, read by Mitch. *Chickens* is a Mt. View Elementary School library loan.
 
+**Favorites:** *Chickens* and *Swap!*
+
 - **Book:** *Chickens* (Mary Ann McDonald)
 - **Who read:** Mitch
-- **Notes:** MVES library book on loan. Call number 636.5 MCD.
+- **Notes:** MVES library book on loan. Call number 636.5 MCD. Favorite.
 
 - **Book:** *Swap!* (Steve Light)
 - **Who read:** Mitch
+- **Notes:** Favorite.
 
 - **Book:** *It’s the Great Pumpkin, Charlie Brown*
 - **Who read:** Mitch
