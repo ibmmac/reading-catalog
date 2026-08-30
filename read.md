@@ -91,8 +91,6 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9 / *Whacky Jack!*
 
-![Hooked on Phonics cover](covers/hooked-on-phonics.jpg)
-
 ![Whacky Jack cover](covers/whacky-jack.jpg)
 
 - **One book:** pink *Hooked on Phonics Pre-reader Steps 7, 8 & 9* cover and *Whacky Jack!* story cover are the two sides of the same book.
