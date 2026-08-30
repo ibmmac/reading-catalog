@@ -17,33 +17,50 @@ jobs:
           mkdir -p covers
           download() {
             local out="$1" url="$2"
-            echo "GET $out"
-            curl -fsSL --retry 3 -A "Mozilla/5.0" -o "covers/${out}" "$url" || echo "FAILED $out"
-            file "covers/${out}" || true
-            # reject tiny placeholder gifs / 1x1 images
-            local size
-            size=$(wc -c < "covers/${out}" || echo 0)
-            if [ "$size" -lt 2000 ]; then
-              echo "too small ($size bytes), removing $out"
-              rm -f "covers/${out}"
+            if [ -f "covers/${out}" ]; then
+              echo "already have $out"
+              return 0
             fi
+            echo "GET $out from $url"
+            if curl -fsSL --retry 3 -A "Mozilla/5.0" -o "covers/${out}" "$url"; then
+              local size
+              size=$(wc -c < "covers/${out}" || echo 0)
+              if [ "$size" -lt 2000 ]; then
+                echo "too small ($size bytes), removing $out"
+                rm -f "covers/${out}"
+                return 1
+              fi
+              echo "ok $out ($size bytes)"
+              return 0
+            fi
+            echo "FAILED $out"
+            rm -f "covers/${out}"
+            return 1
           }
 
-          download night-before-kindergarten.jpg "https://images.randomhouse.com/cover/9780448425009"
-          download cowboy-car.jpg "https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg"
-          download except-antarctica.jpg "https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg"
-          download garfield-scary-tales.jpg "https://images-na.ssl-images-amazon.com/images/P/0448400365.01.LZZZZZZZ.jpg"
-          download butterfly.jpg "https://images.randomhouse.com/cover/9780375828829"
-          download on-beyond-bugs.jpg "https://images-na.ssl-images-amazon.com/images/P/0679873031.01.LZZZZZZZ.jpg"
-          download dont-close-your-eyes.jpg "https://images-na.ssl-images-amazon.com/images/P/140020951X.01.LZZZZZZZ.jpg"
-          download old-lady-fly.jpg "https://images-na.ssl-images-amazon.com/images/P/1904550622.01.LZZZZZZZ.jpg"
-          download chickens.jpg "https://images-na.ssl-images-amazon.com/images/P/1567663745.01.LZZZZZZZ.jpg"
-          download swap.jpg "https://images-na.ssl-images-amazon.com/images/P/0763679909.01.LZZZZZZZ.jpg"
-          download great-pumpkin.jpg "https://images-na.ssl-images-amazon.com/images/P/068984607X.01.LZZZZZZZ.jpg"
-          download the-hat.jpg "https://images-na.ssl-images-amazon.com/images/P/039954738X.01.LZZZZZZZ.jpg"
-          download invented.jpg "https://images-na.ssl-images-amazon.com/images/P/0449814971.01.LZZZZZZZ.jpg"
-          download hooked-on-phonics.jpg "https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg"
-          download whacky-jack.jpg "https://pictures.abebooks.com/isbn/9781887942423-us-300.jpg"
+          download night-before-kindergarten.jpg "https://images.randomhouse.com/cover/9780448425009" || true
+          download cowboy-car.jpg "https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg" || true
+          download except-antarctica.jpg "https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg" || true
+          download butterfly.jpg "https://images.randomhouse.com/cover/9780375828829" || true
+          download on-beyond-bugs.jpg "https://images-na.ssl-images-amazon.com/images/P/0679873031.01.LZZZZZZZ.jpg" || true
+          download dont-close-your-eyes.jpg "https://images-na.ssl-images-amazon.com/images/P/140020951X.01.LZZZZZZZ.jpg" || true
+          download old-lady-fly.jpg "https://images-na.ssl-images-amazon.com/images/P/1904550622.01.LZZZZZZZ.jpg" || true
+          download chickens.jpg "https://images-na.ssl-images-amazon.com/images/P/1567663745.01.LZZZZZZZ.jpg" || true
+          download swap.jpg "https://images-na.ssl-images-amazon.com/images/P/0763679909.01.LZZZZZZZ.jpg" || true
+          download great-pumpkin.jpg "https://images-na.ssl-images-amazon.com/images/P/068984607X.01.LZZZZZZZ.jpg" || true
+          download the-hat.jpg "https://images-na.ssl-images-amazon.com/images/P/039954738X.01.LZZZZZZZ.jpg" || true
+          download invented.jpg "https://images-na.ssl-images-amazon.com/images/P/0449814971.01.LZZZZZZZ.jpg" || true
+          download hooked-on-phonics.jpg "https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg" || true
+
+          download garfield-scary-tales.jpg "https://images-na.ssl-images-amazon.com/images/P/0448400365.01.LZZZZZZZ.jpg" \
+            || download garfield-scary-tales.jpg "https://images-na.ssl-images-amazon.com/images/P/0816732930.01.LZZZZZZZ.jpg" \
+            || download garfield-scary-tales.jpg "https://pictures.abebooks.com/isbn/9780448400365-us-300.jpg" \
+            || download garfield-scary-tales.jpg "https://covers.openlibrary.org/b/isbn/9780448400365-L.jpg" \
+            || true
+
+          download whacky-jack.jpg "https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg" \
+            || download whacky-jack.jpg "https://images-na.ssl-images-amazon.com/images/P/1887942423.01.LZZZZZZZ.jpg" \
+            || true
 
           ls -la covers/
 
