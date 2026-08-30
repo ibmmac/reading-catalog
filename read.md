@@ -148,6 +148,80 @@ Started: August 27, 2026
 
 ---
 
+### 10. Chickens
+
+![Cover of Chickens](https://covers.openlibrary.org/b/isbn/9781567663747-L.jpg)
+
+- **Author:** Mary Ann McDonald
+- **Publisher:** The Child’s World (farm-animal photo series)
+- **ISBN:** `978-1-56766-374-7` · ISBN-10 `1-56766-374-5`
+- **Series mates:** Cows, Ducks, Horses, Pigs, Sheep
+- **Call number:** `636.5 MCD` · barcode `2934015`
+- **Source:** **On loan from Mt. View Elementary School library (MVES)** — not a home copy
+- **About:** Photo nonfiction about chickens.
+- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+
+---
+
+### 11. Swap!
+
+![Cover of Swap!](https://covers.openlibrary.org/b/isbn/9781406367768-L.jpg)
+
+- **Author / illustrator:** Steve Light
+- **Publisher:** Walker Books (UK)
+- **ISBN:** `978-1-4063-6776-8`
+- **Format:** Hardcover · about 40 pages · £11.99 UK
+- **Ages:** picture book
+- **About:** A broken-down ship, a loose button, and an idea: let’s SWAP! A little pirate barters one thing for another until the captain has a ship again. Same creator as *Have You Seen My Dragon?* and *Have You Seen My Monster?*
+- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+
+---
+
+### 12. It’s the Great Pumpkin, Charlie Brown
+
+![Cover of It's the Great Pumpkin, Charlie Brown](https://covers.openlibrary.org/b/isbn/9781481453887-L.jpg)
+
+- **Series:** Peanuts
+- **By:** Charles M. Schulz
+- **Publisher:** Simon & Schuster
+- **ISBN:** `978-1-4814-5388-7`
+- **Format:** Picture book · 50 Years of The Great Pumpkin edition · $7.99
+- **About:** Halloween with the Peanuts gang. Linus waits in the pumpkin patch for the Great Pumpkin.
+- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+
+---
+
+### 13. The Hat
+
+![Cover of The Hat](https://covers.openlibrary.org/b/isbn/9780399547386-L.jpg)
+
+- **Author / illustrator:** Jan Brett
+- **Publisher:** G.P. Putnam’s Sons / Penguin
+- **ISBN:** `978-0-399-54738-6`
+- **Format:** Oversized lap board book · $15.99
+- **Ages:** 1–5+
+- **About:** Hedgie the hedgehog gets Lisa’s wool stocking stuck on his prickles and pretends it’s a hat. Farm animals laugh — then want hats of their own. Companion to *The Mitten*.
+- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+
+---
+
+### 14. Oh, the Things They Invented!
+
+![Cover of Oh, the Things They Invented](https://covers.openlibrary.org/b/isbn/9780449814970-L.jpg)
+
+- **Title:** *Oh, the Things They Invented! All About Great Inventors*
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Bonnie Worth
+- **Illustrated by:** Aristides Ruiz and Joe Mathieu
+- **Publisher:** Random House (2015)
+- **ISBN:** `978-0-449-81497-0`
+- **Format:** Hardcover · 48 pages · $9.99
+- **Ages:** 5–8
+- **About:** The Cat meets inventors from the printing press and steam engine to the telephone, airplanes, windshield wipers, computers, and the World Wide Web.
+- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+
+---
+
 ## How to add a new book
 
 Copy a card above. For the cover picture, you can:
@@ -176,6 +250,29 @@ Add a new day at the **top** of this list so the newest reading is first.
 - **New word or question:**
 - **Read it again?** yes / not yet
 ```
+
+---
+
+### 2026-08-29 — Saturday
+
+Five books, read by Mitch. *Chickens* is a Mt. View Elementary School library loan.
+
+- **Book:** *Chickens* (Mary Ann McDonald)
+- **Who read:** Mitch
+- **Notes:** MVES library book on loan. Call number 636.5 MCD.
+
+- **Book:** *Swap!* (Steve Light)
+- **Who read:** Mitch
+
+- **Book:** *It’s the Great Pumpkin, Charlie Brown*
+- **Who read:** Mitch
+
+- **Book:** *The Hat* (Jan Brett)
+- **Who read:** Mitch
+
+- **Book:** *Oh, the Things They Invented!*
+- **Who read:** Mitch
+- **Notes:** Third Cat in the Hat Learning Library title this week.
 
 ---
 
