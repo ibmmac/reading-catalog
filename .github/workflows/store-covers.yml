@@ -1,0 +1,72 @@
+name: Store cover images
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-covers:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download cover JPEGs into covers/
+        run: |
+          mkdir -p covers
+          download() {
+            local out="$1" url="$2"
+            echo "GET $out"
+            curl -fsSL --retry 3 -A "Mozilla/5.0" -o "covers/${out}" "$url" || echo "FAILED $out"
+            file "covers/${out}" || true
+            # reject tiny placeholder gifs / 1x1 images
+            local size
+            size=$(wc -c < "covers/${out}" || echo 0)
+            if [ "$size" -lt 2000 ]; then
+              echo "too small ($size bytes), removing $out"
+              rm -f "covers/${out}"
+            fi
+          }
+
+          download night-before-kindergarten.jpg "https://images.randomhouse.com/cover/9780448425009"
+          download cowboy-car.jpg "https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg"
+          download except-antarctica.jpg "https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg"
+          download garfield-scary-tales.jpg "https://images-na.ssl-images-amazon.com/images/P/0448400365.01.LZZZZZZZ.jpg"
+          download butterfly.jpg "https://images.randomhouse.com/cover/9780375828829"
+          download on-beyond-bugs.jpg "https://images-na.ssl-images-amazon.com/images/P/0679873031.01.LZZZZZZZ.jpg"
+          download dont-close-your-eyes.jpg "https://images-na.ssl-images-amazon.com/images/P/140020951X.01.LZZZZZZZ.jpg"
+          download old-lady-fly.jpg "https://images-na.ssl-images-amazon.com/images/P/1904550622.01.LZZZZZZZ.jpg"
+          download chickens.jpg "https://images-na.ssl-images-amazon.com/images/P/1567663745.01.LZZZZZZZ.jpg"
+          download swap.jpg "https://images-na.ssl-images-amazon.com/images/P/0763679909.01.LZZZZZZZ.jpg"
+          download great-pumpkin.jpg "https://images-na.ssl-images-amazon.com/images/P/068984607X.01.LZZZZZZZ.jpg"
+          download the-hat.jpg "https://images-na.ssl-images-amazon.com/images/P/039954738X.01.LZZZZZZZ.jpg"
+          download invented.jpg "https://images-na.ssl-images-amazon.com/images/P/0449814971.01.LZZZZZZZ.jpg"
+          download hooked-on-phonics.jpg "https://covers.openlibrary.org/b/isbn/9781887942423-L.jpg"
+          download whacky-jack.jpg "https://pictures.abebooks.com/isbn/9781887942423-us-300.jpg"
+
+          ls -la covers/
+
+      - name: Decode any local base64 fallbacks
+        run: |
+          if ls covers/*.b64 >/dev/null 2>&1; then
+            for f in covers/*.b64; do
+              out="${f%.b64}.jpg"
+              if [ ! -f "$out" ]; then
+                echo "decode $f -> $out"
+                base64 -d "$f" > "$out"
+              fi
+            done
+          fi
+
+      - name: Commit cover images
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add covers/*.jpg || true
+          if git diff --cached --quiet; then
+            echo "No cover images to commit"
+          else
+            git commit -m "Store book cover JPEGs in covers/"
+            git push
+          fi
