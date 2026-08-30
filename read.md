@@ -179,6 +179,14 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 ---
 
+### 2026-08-28 — Friday
+
+- **Book:** none
+- **Who read:** Amy
+- **Notes:** Amy did not read any books Friday.
+
+---
+
 ### 2026-08-27 — Thursday
 
 Bedtime stack. Four books, all read by Mitch.
