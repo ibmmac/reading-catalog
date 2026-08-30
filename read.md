@@ -5,13 +5,15 @@ A catalog of books on our shelf, with covers, plus a log we can update every day
 Reader: Mitch (Dad) · also Amy  
 Started: August 27, 2026
 
+Covers are stored in this repo under [`covers/`](covers/).
+
 ---
 
 ## On the shelf
 
 ### 1. The Night Before Kindergarten
 
-![Cover of The Night Before Kindergarten](https://images.randomhouse.com/cover/9780448425009)
+![Cover of The Night Before Kindergarten](covers/night-before-kindergarten.jpg)
 
 - **Author:** Natasha Wing
 - **Illustrated by:** Julie Durrell
@@ -27,7 +29,7 @@ Started: August 27, 2026
 
 ### 2. Cowboy Car
 
-![Cover of Cowboy Car](https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg)
+![Cover of Cowboy Car](covers/cowboy-car.jpg)
 
 - **Author:** Jeanie Franz Ransom
 - **Illustrated by:** Ovi Nedelcu
@@ -42,7 +44,7 @@ Started: August 27, 2026
 
 ### 3. Except Antarctica!
 
-![Cover of Except Antarctica](https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg)
+![Cover of Except Antarctica](covers/except-antarctica.jpg)
 
 - **Author / illustrator:** Todd Sturgell
 - **Publisher:** Sourcebooks Explore (2021)
@@ -56,7 +58,7 @@ Started: August 27, 2026
 
 ### 4. Garfield’s Scary Tales
 
-![Cover of Garfield's Scary Tales](https://pictures.abebooks.com/isbn/9780448400365-us-300.jpg)
+![Cover of Garfield's Scary Tales](covers/garfield-scary-tales.jpg)
 
 - **Author:** Jim Kraft (Garfield created by Jim Davis)
 - **Illustrated by:** Mike Fentz
@@ -72,7 +74,7 @@ Started: August 27, 2026
 
 ### 5. My, Oh My—A Butterfly!
 
-![Cover of My, Oh My—A Butterfly!](https://images.randomhouse.com/cover/9780375828829)
+![Cover of My, Oh My—A Butterfly!](covers/butterfly.jpg)
 
 - **Title:** *My, Oh My—A Butterfly! All About Butterflies*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -89,7 +91,9 @@ Started: August 27, 2026
 
 ### 6. Hooked on Phonics Pre-reader — Steps 7, 8 & 9 / *Whacky Jack!*
 
-![Whacky Jack cover](https://pictures.abebooks.com/isbn/9781887942423-us-300.jpg)
+![Hooked on Phonics cover](covers/hooked-on-phonics.jpg)
+
+![Whacky Jack cover](covers/whacky-jack.jpg)
 
 - **One book:** pink *Hooked on Phonics Pre-reader Steps 7, 8 & 9* cover and *Whacky Jack!* story cover are the two sides of the same book.
 - **Story:** *Whacky Jack!* by Jonathan London, illustrated by Doug Cushman — Jack the raccoon learns baseball.
@@ -104,7 +108,7 @@ Started: August 27, 2026
 
 ### 7. On Beyond Bugs!
 
-![Cover of On Beyond Bugs](https://images-na.ssl-images-amazon.com/images/P/0679873031.01.LZZZZZZZ.jpg)
+![Cover of On Beyond Bugs](covers/on-beyond-bugs.jpg)
 
 - **Title:** *On Beyond Bugs! All About Insects*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -120,7 +124,7 @@ Started: August 27, 2026
 
 ### 8. Don’t Close Your Eyes
 
-![Cover of Don't Close Your Eyes](https://images-na.ssl-images-amazon.com/images/P/140020951X.01.LZZZZZZZ.jpg)
+![Cover of Don't Close Your Eyes](covers/dont-close-your-eyes.jpg)
 
 - **Title:** *Don’t Close Your Eyes: A Silly Bedtime Story*
 - **Author:** Bob Hostetler
@@ -136,7 +140,7 @@ Started: August 27, 2026
 
 ### 9. There Was an Old Lady Who Swallowed a Fly
 
-![Cover of There Was an Old Lady Who Swallowed a Fly](https://images-na.ssl-images-amazon.com/images/P/1904550622.01.LZZZZZZZ.jpg)
+![Cover of There Was an Old Lady Who Swallowed a Fly](covers/old-lady-fly.jpg)
 
 - **Illustrated by:** Pam Adams
 - **Publisher:** Child’s Play — Classic Books with Holes (this copy includes CD)
@@ -150,7 +154,7 @@ Started: August 27, 2026
 
 ### 10. Chickens
 
-![Cover of Chickens](https://images-na.ssl-images-amazon.com/images/P/1567663745.01.LZZZZZZZ.jpg)
+![Cover of Chickens](covers/chickens.jpg)
 
 - **Author:** Mary Ann McDonald
 - **Publisher:** The Child’s World (farm-animal photo series)
@@ -166,7 +170,7 @@ Started: August 27, 2026
 
 ### 11. Swap!
 
-![Cover of Swap!](https://images-na.ssl-images-amazon.com/images/P/0763679909.01.LZZZZZZZ.jpg)
+![Cover of Swap!](covers/swap.jpg)
 
 - **Author / illustrator:** Steve Light
 - **Publisher:** Walker Books (UK) / Candlewick (US ISBN `978-0-7636-7990-3`)
@@ -181,7 +185,7 @@ Started: August 27, 2026
 
 ### 12. It’s the Great Pumpkin, Charlie Brown
 
-![Cover of It's the Great Pumpkin, Charlie Brown](https://images-na.ssl-images-amazon.com/images/P/068984607X.01.LZZZZZZZ.jpg)
+![Cover of It's the Great Pumpkin, Charlie Brown](covers/great-pumpkin.jpg)
 
 - **Series:** Peanuts
 - **By:** Charles M. Schulz
@@ -195,7 +199,7 @@ Started: August 27, 2026
 
 ### 13. The Hat
 
-![Cover of The Hat](https://images-na.ssl-images-amazon.com/images/P/039954738X.01.LZZZZZZZ.jpg)
+![Cover of The Hat](covers/the-hat.jpg)
 
 - **Author / illustrator:** Jan Brett
 - **Publisher:** G.P. Putnam’s Sons / Penguin
@@ -209,7 +213,7 @@ Started: August 27, 2026
 
 ### 14. Oh, the Things They Invented!
 
-![Cover of Oh, the Things They Invented](https://images-na.ssl-images-amazon.com/images/P/0449814971.01.LZZZZZZZ.jpg)
+![Cover of Oh, the Things They Invented](covers/invented.jpg)
 
 - **Title:** *Oh, the Things They Invented! All About Great Inventors*
 - **Series:** The Cat in the Hat’s Learning Library
@@ -226,14 +230,13 @@ Started: August 27, 2026
 
 ## How to add a new book
 
-Copy a card above. For the cover picture, you can:
+Copy a card above. Drop the cover JPEG in `covers/` (short-name.jpg) and use:
 
-1. Use a working Amazon ISBN-10 URL  
-   `https://images-na.ssl-images-amazon.com/images/P/ISBN10.01.LZZZZZZZ.jpg`
-2. Random House titles: `https://images.randomhouse.com/cover/978ISBN13`
-3. Or send Ellie a photo and ask her to add it
+```
+![Cover](covers/short-name.jpg)
+```
 
-Open Library cover links often return a blank 1×1 GIF, so we stopped using those.
+Or send Ellie a photo and ask her to add it.
 
 ---
 
@@ -357,5 +360,3 @@ Four books, all read by Mitch. Night-before energy for the first day of second g
 - **Who read:** Mitch
 - **Favorite part:** *Terminal Terror* (the computer that comes alive) and the camping story (*A Ghost’s Story*, with the lumberjack around the campfire).
 - **Read it again?**
-
----
