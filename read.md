@@ -226,6 +226,54 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ---
 
+### 15. The Remember Balloons
+
+![Cover of The Remember Balloons](covers/remember-balloons.jpg)
+
+- **Author:** Jessie Oliveros
+- **Illustrated by:** Dana Wulfekotte
+- **Publisher:** Simon & Schuster Books for Young Readers (2018)
+- **ISBN:** `978-1-4814-8915-7`
+- **Format:** Hardcover · 48 pages · cover price $18.99 / $25.99 CAN
+- **Ages:** 5–9
+- **Awards:** 2019 Schneider Family Book Award Honor
+- **About:** James’s grandpa keeps memories in brightly colored balloons. When Grandpa starts losing his balloons — a gentle picture of memory loss — James learns that shared stories become balloons of his own.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+
+---
+
+### 16. Frog Song
+
+![Cover of Frog Song](covers/frog-song.jpg)
+
+- **Author:** Brenda Z. Guiberson
+- **Illustrated by:** Gennady Spirin
+- **Publisher:** Henry Holt and Co. (2013)
+- **ISBN:** `978-0-8050-9254-7`
+- **Format:** Hardcover · 40 pages · cover price $17.99
+- **Ages:** 4–8
+- **About:** Frog songs from Chile to Nepal to Australia — birrups, bellows, and how different frogs care for their eggs. A frog song is a celebration of clean water, plants, and insects to eat.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+
+---
+
+### 17. The Party
+
+![Cover of The Party](covers/the-party.jpg)
+
+- **Author / illustrator:** David McPhail
+- **Publisher:** originally Little, Brown (1990); this copy is the Hooked on Phonics / Gateway Learning paperback (Book 30)
+- **ISBN (this copy, typical HOP printing):** `978-1-887942-51-5` · original hardcover `978-0-316-56330-7`
+- **Format:** Paperback · 32 pages
+- **Ages:** 4–8 / early reader
+- **About:** Dad falls asleep mid-bedtime story. The boy and his stuffed animals come to life for a secret party — dancing, balloons, kitchen raid — and try to include sleepy Dad.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+
+---
+
 ## How to add a new book
 
 Copy a card above. Drop the cover JPEG in `covers/` (short-name.jpg) and use:
@@ -254,6 +302,24 @@ Add a new day at the **top** of this list so the newest reading is first.
 - **New word or question:**
 - **Read it again?** yes / not yet
 ```
+
+---
+
+### 2026-08-30 — Sunday
+
+Three books from the home shelf, read by Mitch.
+
+- **Book:** *The Remember Balloons* (Jessie Oliveros / Dana Wulfekotte)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-1-4814-8915-7.
+
+- **Book:** *Frog Song* (Brenda Z. Guiberson / Gennady Spirin)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-0-8050-9254-7.
+
+- **Book:** *The Party* (David McPhail)
+- **Who read:** Mitch
+- **Notes:** Home copy. Hooked on Phonics paperback of the 1990 picture book.
 
 ---
 
