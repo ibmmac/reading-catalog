@@ -270,6 +270,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 - **Ages:** 4–8 / early reader
 - **About:** Dad falls asleep mid-bedtime story. The boy and his stuffed animals come to life for a secret party — dancing, balloons, kitchen raid — and try to include sleepy Dad.
 - **On our bookshelf:** home copy
+- **Favorite:** Sunday, August 30, 2026.
 - **Read?** [x] — Sunday, August 30, 2026 · Mitch
 
 ---
@@ -309,6 +310,8 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 Three books from the home shelf, read by Mitch.
 
+**Favorite:** *The Party*
+
 - **Book:** *The Remember Balloons* (Jessie Oliveros / Dana Wulfekotte)
 - **Who read:** Mitch
 - **Notes:** Home copy. ISBN 978-1-4814-8915-7.
@@ -319,7 +322,7 @@ Three books from the home shelf, read by Mitch.
 
 - **Book:** *The Party* (David McPhail)
 - **Who read:** Mitch
-- **Notes:** Home copy. Hooked on Phonics paperback of the 1990 picture book.
+- **Notes:** Home copy. Hooked on Phonics paperback of the 1990 picture book. Favorite.
 
 ---
 
