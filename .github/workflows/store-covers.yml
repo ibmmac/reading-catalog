@@ -62,6 +62,18 @@ jobs:
             || download whacky-jack.jpg "https://images-na.ssl-images-amazon.com/images/P/1887942423.01.LZZZZZZZ.jpg" \
             || true
 
+          download remember-balloons.jpg "https://images-na.ssl-images-amazon.com/images/P/1481489151.01.LZZZZZZZ.jpg" \
+            || download remember-balloons.jpg "https://covers.openlibrary.org/b/isbn/9781481489157-L.jpg" \
+            || true
+
+          download frog-song.jpg "https://covers.openlibrary.org/b/isbn/9780805092547-L.jpg" \
+            || download frog-song.jpg "https://images-na.ssl-images-amazon.com/images/P/0805092540.01.LZZZZZZZ.jpg" \
+            || true
+
+          download the-party.jpg "https://covers.openlibrary.org/b/isbn/9780316563307-L.jpg" \
+            || download the-party.jpg "https://covers.openlibrary.org/b/isbn/9780316888608-L.jpg" \
+            || true
+
           ls -la covers/
 
       - name: Decode any local base64 fallbacks
