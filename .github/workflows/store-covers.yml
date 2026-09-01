@@ -74,6 +74,18 @@ jobs:
             || download the-party.jpg "https://covers.openlibrary.org/b/isbn/9780316888608-L.jpg" \
             || true
 
+          download saying-thanks.jpg "https://images-na.ssl-images-amazon.com/images/P/0689854102.01.LZZZZZZZ.jpg" \
+            || download saying-thanks.jpg "https://covers.openlibrary.org/b/isbn/9780689854101-L.jpg" \
+            || true
+
+          download mccloskey.jpg "https://covers.openlibrary.org/b/isbn/9780670059348-L.jpg" \
+            || download mccloskey.jpg "https://covers.openlibrary.org/b/isbn/067005934X-L.jpg" \
+            || true
+
+          download clam-i-am.jpg "https://covers.openlibrary.org/b/isbn/9780007284856-L.jpg" \
+            || download clam-i-am.jpg "https://images.randomhouse.com/cover/9780375826267" \
+            || true
+
           ls -la covers/
 
       - name: Decode any local base64 fallbacks
