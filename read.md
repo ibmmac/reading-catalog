@@ -275,6 +275,57 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ---
 
+### 18. The Secret of Saying Thanks
+
+![Cover of The Secret of Saying Thanks](covers/saying-thanks.jpg)
+
+- **Author:** Douglas Wood (author of *Old Turtle*)
+- **Illustrated by:** Greg Shed
+- **Publisher:** Simon & Schuster Books for Young Readers (2005)
+- **ISBN:** `978-0-689-85410-1`
+- **Format:** Hardcover · 32 pages · cover price $18.99
+- **Ages:** 4–8
+- **About:** A quiet gratitude book. The secret of saying thanks shows up in sunrise, shade, a warm hand, a dog, people you love around a table.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Monday, August 31, 2026 · Mitch
+
+---
+
+### 19. Make Way for McCloskey: A Robert McCloskey Treasury
+
+![Cover of Make Way for McCloskey](covers/mccloskey.jpg)
+
+- **Author / illustrator:** Robert McCloskey
+- **Introduction:** Leonard S. Marcus
+- **Publisher:** Viking (2004)
+- **ISBN:** `978-0-670-05934-8`
+- **Format:** Oversized hardcover treasury · 144 pages · cover price $26.00
+- **Ages:** 5–8+
+- **Contains 8 works:** *Make Way for Ducklings*; *Blueberries for Sal*; *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Burt Dow, Deep-Water Man*; *Homer Price*; *Centerburg Tales*
+- **Read so far:** *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch
+- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Burt Dow, Deep-Water Man*; *Homer Price*; *Centerburg Tales*
+- **On our bookshelf:** home copy
+
+---
+
+### 20. Clam-I-Am!
+
+![Cover of Clam-I-Am](covers/clam-i-am.jpg)
+
+- **Title:** *Clam-I-Am! All About Seaside Creatures*
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Tish Rabe
+- **Illustrated by:** Aristides Ruiz and Joe Mathieu
+- **Publisher:** HarperCollins (this copy, Indian Subcontinent / UK) / Random House (US)
+- **ISBN (this copy):** `978-0-00-728485-6` · US: `978-0-375-82626-7`
+- **Format:** Paperback · 48 pages · £5.99
+- **Ages:** 4–8
+- **About:** The Cat and the Fish take beginning readers to the beach — clams, gulls, and other creatures that live in or near the sea.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Monday, August 31, 2026 · Mitch
+
+---
+
 ## How to add a new book
 
 Copy a card above. Drop the cover JPEG in `covers/` (short-name.jpg) and use:
@@ -303,6 +354,26 @@ Add a new day at the **top** of this list so the newest reading is first.
 - **New word or question:**
 - **Read it again?** yes / not yet
 ```
+
+---
+
+### 2026-08-31 — Monday
+
+Three books from the home shelf, read by Mitch.
+
+From the McCloskey treasury we read only two stories tonight. The rest another night.
+
+- **Book:** *The Secret of Saying Thanks* (Douglas Wood / Greg Shed)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-0-689-85410-1.
+
+- **Book:** *Make Way for McCloskey* — *Make Way for Ducklings* and *Blueberries for Sal* only
+- **Who read:** Mitch
+- **Notes:** Home copy treasury (ISBN 978-0-670-05934-8). Other stories saved for another night: *Lentil*, *Time of Wonder*, *One Morning in Maine*, *Burt Dow, Deep-Water Man*, *Homer Price*, *Centerburg Tales*.
+
+- **Book:** *Clam-I-Am! All About Seaside Creatures*
+- **Who read:** Mitch
+- **Notes:** Home copy. Fourth Cat in the Hat Learning Library title this week. ISBN 978-0-00-728485-6.
 
 ---
 
