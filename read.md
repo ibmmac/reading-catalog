@@ -303,6 +303,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 - **Ages:** 5–8+
 - **Contains 8 works:** *Make Way for Ducklings*; *Blueberries for Sal*; *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Burt Dow, Deep-Water Man*; *Homer Price*; *Centerburg Tales*
 - **Read so far:** *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch
+- **Favorite tonight:** *Make Way for Ducklings*
 - **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Burt Dow, Deep-Water Man*; *Homer Price*; *Centerburg Tales*
 - **On our bookshelf:** home copy
 
@@ -361,6 +362,8 @@ Add a new day at the **top** of this list so the newest reading is first.
 
 Three books from the home shelf, read by Mitch.
 
+**Favorite:** *Make Way for Ducklings*
+
 From the McCloskey treasury we read only two stories tonight. The rest another night.
 
 - **Book:** *The Secret of Saying Thanks* (Douglas Wood / Greg Shed)
@@ -369,7 +372,7 @@ From the McCloskey treasury we read only two stories tonight. The rest another n
 
 - **Book:** *Make Way for McCloskey* — *Make Way for Ducklings* and *Blueberries for Sal* only
 - **Who read:** Mitch
-- **Notes:** Home copy treasury (ISBN 978-0-670-05934-8). Other stories saved for another night: *Lentil*, *Time of Wonder*, *One Morning in Maine*, *Burt Dow, Deep-Water Man*, *Homer Price*, *Centerburg Tales*.
+- **Notes:** Home copy treasury (ISBN 978-0-670-05934-8). Favorite story tonight: *Make Way for Ducklings*. Other stories saved for another night: *Lentil*, *Time of Wonder*, *One Morning in Maine*, *Burt Dow, Deep-Water Man*, *Homer Price*, *Centerburg Tales*.
 
 - **Book:** *Clam-I-Am! All About Seaside Creatures*
 - **Who read:** Mitch
