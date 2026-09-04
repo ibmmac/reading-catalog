@@ -58,6 +58,7 @@ jobs:
           download mccloskey.jpg "https://covers.openlibrary.org/b/isbn/9780670059348-L.jpg" || true
           download clam-i-am.jpg "https://covers.openlibrary.org/b/isbn/9780007284856-L.jpg" || true
           download reptiles.jpg "https://images.randomhouse.com/cover/9780375828843" || true
+          download best-artist.jpg "https://covers.openlibrary.org/b/isbn/9780803732551-L.jpg" || true
 
           ls -la covers/
 
