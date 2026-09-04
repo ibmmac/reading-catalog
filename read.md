@@ -15,12 +15,8 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Night Before Kindergarten](covers/night-before-kindergarten.jpg)
 
-- **Author:** Natasha Wing
-- **Illustrated by:** Julie Durrell
-- **Publisher:** Grosset & Dunlap (2001)
-- **ISBN:** `978-0-448-42500-9`
-- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
-- **How we read it:** Swapped “kindergarten” for “2nd grade” — Wednesday, August 26 was the first day of second grade.
+- Natasha Wing · Julie Durrell · ISBN `978-0-448-42500-9`
+- Read as *The Night Before 2nd Grade* — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -28,9 +24,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Cowboy Car](covers/cowboy-car.jpg)
 
-- **Author:** Jeanie Franz Ransom · **Illustrated by:** Ovi Nedelcu
-- **Publisher:** Two Lions (2017) · ISBN `978-1-5039-5097-9`
-- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
+- Jeanie Franz Ransom · Ovi Nedelcu · Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -38,9 +32,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Except Antarctica](covers/except-antarctica.jpg)
 
-- **Author / illustrator:** Todd Sturgell
-- **Publisher:** Sourcebooks Explore (2021) · ISBN `978-1-7282-3326-0`
-- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
+- Todd Sturgell · Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -48,10 +40,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Garfield's Scary Tales](covers/garfield-scary-tales.jpg)
 
-- **Author:** Jim Kraft · **Illustrated by:** Mike Fentz
-- **Publisher:** Grosset & Dunlap (1990) · ISBN `978-0-448-40036-5`
-- **Favorites:** *Terminal Terror* and the camping story (*A Ghost’s Story*).
-- **Read?** [x] — Monday, August 24, 2026 · Mitch
+- Favorites: *Terminal Terror* and *A Ghost’s Story* · Monday, August 24, 2026 · Mitch
 
 ---
 
@@ -59,9 +48,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of My, Oh My—A Butterfly!](covers/butterfly.jpg)
 
-- **Series:** The Cat in the Hat’s Learning Library · Tish Rabe
-- **ISBN (this copy):** `978-0-00-810098-8`
-- **Read?** [x] — Tuesday, August 25, 2026 · Mitch
+- Cat in the Hat Learning Library · Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -69,8 +56,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Whacky Jack cover](covers/whacky-jack.jpg)
 
-- **Story:** Jonathan London · Doug Cushman · Jack the raccoon learns baseball
-- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+- Jonathan London · Doug Cushman · Thursday, August 27, 2026 · Mitch
 
 ---
 
@@ -78,8 +64,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of On Beyond Bugs](covers/on-beyond-bugs.jpg)
 
-- **Series:** The Cat in the Hat’s Learning Library · Tish Rabe · ISBN `978-0-679-87303-7`
-- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+- Cat in the Hat Learning Library · Thursday, August 27, 2026 · Mitch
 
 ---
 
@@ -87,8 +72,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Don't Close Your Eyes](covers/dont-close-your-eyes.jpg)
 
-- **Author:** Bob Hostetler · Mark Chambers · ISBN `978-1-4002-0951-4`
-- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+- Bob Hostetler · Thursday, August 27, 2026 · Mitch
 
 ---
 
@@ -96,8 +80,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of There Was an Old Lady Who Swallowed a Fly](covers/old-lady-fly.jpg)
 
-- **Illustrated by:** Pam Adams · Child’s Play · ISBN `978-1-904550-62-4`
-- **Read?** [x] — Thursday, August 27, 2026 · bedtime · Mitch
+- Pam Adams · Thursday, August 27, 2026 · Mitch
 
 ---
 
@@ -105,10 +88,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Chickens](covers/chickens.jpg)
 
-- **Author:** Mary Ann McDonald · ISBN `978-1-56766-374-7`
-- **Source:** **MVES library loan** · call number `636.5 MCD`
-- **Favorite:** Saturday, August 29, 2026
-- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+- Mary Ann McDonald · **MVES library loan** · Favorite Saturday, August 29, 2026 · Mitch
 
 ---
 
@@ -116,9 +96,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Swap!](covers/swap.jpg)
 
-- **Author / illustrator:** Steve Light · ISBN (this copy) `978-1-4063-6776-8`
-- **Favorite:** Saturday, August 29, 2026
-- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+- Steve Light · Favorite Saturday, August 29, 2026 · Mitch
 
 ---
 
@@ -126,8 +104,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of It's the Great Pumpkin, Charlie Brown](covers/great-pumpkin.jpg)
 
-- **By:** Charles M. Schulz · ISBN `978-1-4814-5388-7`
-- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+- Charles M. Schulz · Saturday, August 29, 2026 · Mitch
 
 ---
 
@@ -135,8 +112,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Hat](covers/the-hat.jpg)
 
-- **Author / illustrator:** Jan Brett · ISBN `978-0-399-54738-6`
-- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+- Jan Brett · Saturday, August 29, 2026 · Mitch
 
 ---
 
@@ -144,8 +120,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Oh, the Things They Invented](covers/invented.jpg)
 
-- **Series:** The Cat in the Hat’s Learning Library · Bonnie Worth · ISBN `978-0-449-81497-0`
-- **Read?** [x] — Saturday, August 29, 2026 · Mitch
+- Cat in the Hat Learning Library · Saturday, August 29, 2026 · Mitch
 
 ---
 
@@ -153,9 +128,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Remember Balloons](covers/remember-balloons.jpg)
 
-- **Author:** Jessie Oliveros · **Illustrated by:** Dana Wulfekotte
-- **Publisher:** Simon & Schuster (2018) · ISBN `978-1-4814-8915-7`
-- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+- Jessie Oliveros · Dana Wulfekotte · Sunday, August 30, 2026 · Mitch
 
 ---
 
@@ -163,9 +136,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Frog Song](covers/frog-song.jpg)
 
-- **Author:** Brenda Z. Guiberson · **Illustrated by:** Gennady Spirin
-- **ISBN:** `978-0-8050-9254-7`
-- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+- Brenda Z. Guiberson · Gennady Spirin · Sunday, August 30, 2026 · Mitch
 
 ---
 
@@ -173,9 +144,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Party](covers/the-party.jpg)
 
-- **Author / illustrator:** David McPhail · Hooked on Phonics paperback
-- **Favorite:** Sunday, August 30, 2026
-- **Read?** [x] — Sunday, August 30, 2026 · Mitch
+- David McPhail · Favorite Sunday, August 30, 2026 · Mitch
 
 ---
 
@@ -183,9 +152,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Secret of Saying Thanks](covers/saying-thanks.jpg)
 
-- **Author:** Douglas Wood · **Illustrated by:** Greg Shed
-- **ISBN:** `978-0-689-85410-1`
-- **Read?** [x] — Monday, August 31, 2026 · Mitch
+- Douglas Wood · Greg Shed · Monday, August 31, 2026 · Mitch
 
 ---
 
@@ -193,10 +160,11 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Make Way for McCloskey](covers/mccloskey.jpg)
 
-- **Author / illustrator:** Robert McCloskey · intro Leonard S. Marcus · ISBN `978-0-670-05934-8`
-- **Read so far:** *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch
-- **Favorite that night:** *Make Way for Ducklings*
-- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Burt Dow, Deep-Water Man*; *Homer Price*; *Centerburg Tales*
+- Robert McCloskey · intro Leonard S. Marcus · ISBN `978-0-670-05934-8`
+- **Read so far:**
+  - *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch (favorite that night: *Make Way for Ducklings*)
+  - *Burt Dow, Deep-Water Man* — Thursday, September 3, 2026 · Mitch
+- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Homer Price*; *Centerburg Tales*
 
 ---
 
@@ -204,10 +172,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Clam-I-Am](covers/clam-i-am.jpg)
 
-- **Title:** *Clam-I-Am! All About Seaside Creatures*
-- **Series:** The Cat in the Hat’s Learning Library · Tish Rabe
-- **ISBN (this copy):** `978-0-00-728485-6`
-- **Read?** [x] — Monday, August 31, 2026 · Mitch
+- Cat in the Hat Learning Library · Tish Rabe · Monday, August 31, 2026 · Mitch
 
 ---
 
@@ -215,17 +180,23 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Miles and Miles of Reptiles](covers/reptiles.jpg)
 
-- **Title:** *Miles and Miles of Reptiles: All About Reptiles*
-- **Series:** The Cat in the Hat’s Learning Library
-- **Author:** Tish Rabe
-- **Illustrated by:** Aristides Ruiz and Joe Mathieu
-- **Publisher:** HarperCollins (this copy, Indian Subcontinent / UK) / Random House (US)
-- **ISBN (this copy):** `978-0-00-746036-6` · US: `978-0-375-82884-3`
-- **Format:** Paperback · 48 pages · £5.99
-- **Ages:** 5–9
-- **About:** The Cat in the Hat in his Crocodile Car — lizards, snakes, turtles vs tortoises, chameleons, crocodiles.
+- Cat in the Hat Learning Library · Tish Rabe · ISBN (this copy) `978-0-00-746036-6`
+- Tuesday, September 1, 2026 · Mitch · only book finished before he dozed off
+
+---
+
+### 22. I’m the Best Artist in the Ocean!
+
+![Cover of I'm the Best Artist in the Ocean](covers/best-artist.jpg)
+
+- **Author / illustrator:** Kevin Sherry
+- **Publisher:** Dial Books (2008)
+- **ISBN:** `978-0-8037-3255-1`
+- **Format:** Hardcover · about 24–32 pages · cover price $16.99
+- **Ages:** 4–8
+- **About:** The giant squid from *I’m the Biggest Thing in the Ocean* is back — squirting ink, painting a mustache, and making a “mess-terpiece.” Back cover: “I can paint this bar code!!”
 - **On our bookshelf:** home copy
-- **Read?** [x] — Tuesday, September 1, 2026 · Mitch · only book finished before he dozed off
+- **Read?** [x] — Thursday, September 3, 2026 · Mitch
 
 ---
 
@@ -239,31 +210,41 @@ Copy a card above. Drop the cover JPEG in `covers/` and use `![Cover](covers/sho
 
 Newest day first.
 
+### 2026-09-03 — Thursday
+
+- **Book:** *Burt Dow, Deep-Water Man* (from *Make Way for McCloskey*)
+- **Who read:** Mitch
+- **Notes:** Next treasury story after Ducklings and Blueberries.
+
+- **Book:** *I’m the Best Artist in the Ocean!* (Kevin Sherry)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-0-8037-3255-1.
+
+---
+
+### 2026-09-02 — Wednesday
+
+- **Book:** none
+- **Notes:** Went to the movies. No books read.
+
+---
+
 ### 2026-09-01 — Tuesday
 
-One book, read fully by Mitch before he dozed off to sleep.
+One book, finished before he dozed off.
 
-- **Book:** *Miles and Miles of Reptiles: All About Reptiles*
+- **Book:** *Miles and Miles of Reptiles*
 - **Who read:** Mitch
-- **Notes:** Home copy. Fifth Cat in the Hat Learning Library title. ISBN 978-0-00-746036-6. Only book finished tonight.
 
 ---
 
 ### 2026-08-31 — Monday
 
-Three books from the home shelf, read by Mitch.
-
 **Favorite:** *Make Way for Ducklings*
 
 - **Book:** *The Secret of Saying Thanks*
-- **Who read:** Mitch
-
-- **Book:** *Make Way for McCloskey* — *Make Way for Ducklings* and *Blueberries for Sal* only
-- **Who read:** Mitch
-- **Notes:** Favorite story tonight: *Make Way for Ducklings*. Other treasury stories saved for another night.
-
-- **Book:** *Clam-I-Am! All About Seaside Creatures*
-- **Who read:** Mitch
+- **Book:** *Make Way for Ducklings* and *Blueberries for Sal*
+- **Book:** *Clam-I-Am!*
 
 ---
 
@@ -273,7 +254,7 @@ Three books from the home shelf, read by Mitch.
 
 - **Book:** *The Remember Balloons*
 - **Book:** *Frog Song*
-- **Book:** *The Party* — favorite
+- **Book:** *The Party*
 
 ---
 
@@ -291,13 +272,13 @@ Three books from the home shelf, read by Mitch.
 
 ### 2026-08-28 — Friday
 
-- **Book:** none · Amy did not read any books Friday.
+- **Book:** none · Amy did not read Friday.
 
 ---
 
 ### 2026-08-27 — Thursday
 
-- **Book:** *Whacky Jack!* / Hooked on Phonics
+- **Book:** *Whacky Jack!*
 - **Book:** *On Beyond Bugs!*
 - **Book:** *Don’t Close Your Eyes*
 - **Book:** *There Was an Old Lady Who Swallowed a Fly*
@@ -306,13 +287,13 @@ Three books from the home shelf, read by Mitch.
 
 ### 2026-08-26 — Wednesday
 
-First day of second grade. Amy did not read any of these books.
+First day of second grade. No books from Amy.
 
 ---
 
 ### 2026-08-25 — Tuesday
 
-- **Book:** *The Night Before Kindergarten* (read as 2nd grade)
+- **Book:** *The Night Before Kindergarten* (as 2nd grade)
 - **Book:** *Cowboy Car*
 - **Book:** *Except Antarctica!*
 - **Book:** *My, Oh My—A Butterfly!*
@@ -321,5 +302,4 @@ First day of second grade. Amy did not read any of these books.
 
 ### 2026-08-24 — Monday
 
-- **Book:** *Garfield’s Scary Tales*
-- **Favorite part:** *Terminal Terror* and the camping story (*A Ghost’s Story*)
+- **Book:** *Garfield’s Scary Tales* — favorites *Terminal Terror* and *A Ghost’s Story*
