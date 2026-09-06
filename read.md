@@ -210,6 +210,22 @@ Copy a card above. Drop the cover JPEG in `covers/` and use `![Cover](covers/sho
 
 Newest day first.
 
+### 2026-09-05 — Saturday
+
+- **Book:** none
+- **Who read:** Mitch
+- **Notes:** Campfire night. Did not get to read before bed.
+
+---
+
+### 2026-09-04 — Friday
+
+- **Book:** none
+- **Who read:** Amy
+- **Notes:** He was with Amy. No reading was done.
+
+---
+
 ### 2026-09-03 — Thursday
 
 - **Book:** *Burt Dow, Deep-Water Man* (from *Make Way for McCloskey*)
