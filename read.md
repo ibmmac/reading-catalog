@@ -15,8 +15,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of The Night Before Kindergarten](covers/night-before-kindergarten.jpg)
 
-- Natasha Wing · Julie Durrell · ISBN `978-0-448-42500-9`
-- Read as *The Night Before 2nd Grade* — Tuesday, August 25, 2026 · Mitch
+- Natasha Wing · Julie Durrell · read as *The Night Before 2nd Grade* — Tuesday, August 25, 2026 · Mitch
 
 ---
 
@@ -164,7 +163,8 @@ Covers are stored in this repo under [`covers/`](covers/).
 - **Read so far:**
   - *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch (favorite that night: *Make Way for Ducklings*)
   - *Burt Dow, Deep-Water Man* — Thursday, September 3, 2026 · Mitch
-- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Homer Price*; *Centerburg Tales*
+  - *Homer Price* (the donut-machine story) — Sunday, September 13, 2026 · Mitch
+- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Centerburg Tales*
 
 ---
 
@@ -180,8 +180,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Miles and Miles of Reptiles](covers/reptiles.jpg)
 
-- Cat in the Hat Learning Library · Tish Rabe · ISBN (this copy) `978-0-00-746036-6`
-- Tuesday, September 1, 2026 · Mitch · only book finished before he dozed off
+- Cat in the Hat Learning Library · Tish Rabe · Tuesday, September 1, 2026 · Mitch
 
 ---
 
@@ -189,14 +188,37 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of I'm the Best Artist in the Ocean](covers/best-artist.jpg)
 
-- **Author / illustrator:** Kevin Sherry
-- **Publisher:** Dial Books (2008)
-- **ISBN:** `978-0-8037-3255-1`
-- **Format:** Hardcover · about 24–32 pages · cover price $16.99
-- **Ages:** 4–8
-- **About:** The giant squid from *I’m the Biggest Thing in the Ocean* is back — squirting ink, painting a mustache, and making a “mess-terpiece.” Back cover: “I can paint this bar code!!”
+- Kevin Sherry · ISBN `978-0-8037-3255-1` · Thursday, September 3, 2026 · Mitch
+
+---
+
+### 23. Are We There Yet?
+
+![Cover of Are We There Yet](covers/are-we-there-yet.jpg)
+
+- **Author / illustrator:** Dan Santat
+- **Publisher:** Little, Brown and Company (2016)
+- **ISBN:** `978-0-316-19999-5`
+- **Format:** Hardcover · 40 pages
+- **Ages:** picture book
+- **About:** A long car ride to Grandma’s birthday. Boredom slows time so much it runs backward — pirates, dinosaurs, Egypt — and some pages even turn upside down.
 - **On our bookshelf:** home copy
-- **Read?** [x] — Thursday, September 3, 2026 · Mitch
+- **Read?** [x] — Sunday, September 13, 2026 · Mitch
+
+---
+
+### 24. Night Is Right for Me
+
+![Cover of Night Is Right for Me](covers/night-is-right.jpg)
+
+- **Author:** Leslie McGuire
+- **Illustrated by:** Esther Szegedy
+- **Publisher:** Gateway Learning / Hooked on Phonics Learn to Read Level 4 (Book 26, 1998)
+- **ISBN:** `978-1-887942-47-8`
+- **Format:** Paperback · 24 pages
+- **About:** A nocturnal cat whose friends try to put him on a daytime schedule. Night really is right for him.
+- **On our bookshelf:** home copy
+- **Read?** [x] — Sunday, September 13, 2026 · Mitch
 
 ---
 
@@ -210,47 +232,50 @@ Copy a card above. Drop the cover JPEG in `covers/` and use `![Cover](covers/sho
 
 Newest day first.
 
+### 2026-09-13 — Sunday
+
+- **Book:** *Are We There Yet?* (Dan Santat)
+- **Who read:** Mitch
+- **Notes:** Home copy. Little, Brown. ISBN 978-0-316-19999-5.
+
+- **Book:** *Night Is Right for Me* (Leslie McGuire / Esther Szegedy)
+- **Who read:** Mitch
+- **Notes:** Hooked on Phonics Learn to Read, Book 26. ISBN 978-1-887942-47-8.
+
+- **Book:** *Homer Price* — the donut-machine story (from *Make Way for McCloskey*)
+- **Who read:** Mitch
+- **Notes:** Treasury story. Still to read in that book: *Lentil*, *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
+
+---
+
 ### 2026-09-05 — Saturday
 
-- **Book:** none
-- **Who read:** Mitch
-- **Notes:** Campfire night. Did not get to read before bed.
+- **Book:** none · Campfire night. Did not get to read before bed.
 
 ---
 
 ### 2026-09-04 — Friday
 
-- **Book:** none
-- **Who read:** Amy
-- **Notes:** He was with Amy. No reading was done.
+- **Book:** none · He was with Amy. No reading was done.
 
 ---
 
 ### 2026-09-03 — Thursday
 
-- **Book:** *Burt Dow, Deep-Water Man* (from *Make Way for McCloskey*)
-- **Who read:** Mitch
-- **Notes:** Next treasury story after Ducklings and Blueberries.
-
-- **Book:** *I’m the Best Artist in the Ocean!* (Kevin Sherry)
-- **Who read:** Mitch
-- **Notes:** Home copy. ISBN 978-0-8037-3255-1.
+- **Book:** *Burt Dow, Deep-Water Man*
+- **Book:** *I’m the Best Artist in the Ocean!*
 
 ---
 
 ### 2026-09-02 — Wednesday
 
-- **Book:** none
-- **Notes:** Went to the movies. No books read.
+- **Book:** none · Movies.
 
 ---
 
 ### 2026-09-01 — Tuesday
 
-One book, finished before he dozed off.
-
 - **Book:** *Miles and Miles of Reptiles*
-- **Who read:** Mitch
 
 ---
 
