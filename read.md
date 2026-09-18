@@ -1,229 +1,28 @@
-# Books We Read
+# Daily reading log
 
-A catalog of books on our shelf, with covers, plus a log we can update every day.
+Newest night first. Shelf list with covers: [catalog.md](catalog.md).
 
 Reader: Mitch (Dad) · also Amy  
 Started: August 27, 2026
 
-Covers are stored in this repo under [`covers/`](covers/).
+### Template
+
+```
+### YYYY-MM-DD — weekday
+
+- **Book:**
+- **Who read:** Mitch / Amy / together
+- **Favorite:**
+- **Notes:**
+```
 
 ---
-
-## On the shelf
-
-### 1. The Night Before Kindergarten
-
-![Cover of The Night Before Kindergarten](covers/night-before-kindergarten.jpg)
-
-- Natasha Wing · Julie Durrell · read as *The Night Before 2nd Grade* — Tuesday, August 25, 2026 · Mitch
-
----
-
-### 2. Cowboy Car
-
-![Cover of Cowboy Car](covers/cowboy-car.jpg)
-
-- Jeanie Franz Ransom · Ovi Nedelcu · Tuesday, August 25, 2026 · Mitch
-
----
-
-### 3. Except Antarctica!
-
-![Cover of Except Antarctica](covers/except-antarctica.jpg)
-
-- Todd Sturgell · Tuesday, August 25, 2026 · Mitch
-
----
-
-### 4. Garfield’s Scary Tales
-
-![Cover of Garfield's Scary Tales](covers/garfield-scary-tales.jpg)
-
-- Favorites: *Terminal Terror* and *A Ghost’s Story* · Monday, August 24, 2026 · Mitch
-
----
-
-### 5. My, Oh My—A Butterfly!
-
-![Cover of My, Oh My—A Butterfly!](covers/butterfly.jpg)
-
-- Cat in the Hat Learning Library · Tuesday, August 25, 2026 · Mitch
-
----
-
-### 6. Hooked on Phonics / *Whacky Jack!*
-
-![Whacky Jack cover](covers/whacky-jack.jpg)
-
-- Jonathan London · Doug Cushman · Thursday, August 27, 2026 · Mitch
-
----
-
-### 7. On Beyond Bugs!
-
-![Cover of On Beyond Bugs](covers/on-beyond-bugs.jpg)
-
-- Cat in the Hat Learning Library · Thursday, August 27, 2026 · Mitch
-
----
-
-### 8. Don’t Close Your Eyes
-
-![Cover of Don't Close Your Eyes](covers/dont-close-your-eyes.jpg)
-
-- Bob Hostetler · Thursday, August 27, 2026 · Mitch
-
----
-
-### 9. There Was an Old Lady Who Swallowed a Fly
-
-![Cover of There Was an Old Lady Who Swallowed a Fly](covers/old-lady-fly.jpg)
-
-- Pam Adams · Thursday, August 27, 2026 · Mitch
-
----
-
-### 10. Chickens
-
-![Cover of Chickens](covers/chickens.jpg)
-
-- Mary Ann McDonald · **MVES library loan** · Favorite Saturday, August 29, 2026 · Mitch
-
----
-
-### 11. Swap!
-
-![Cover of Swap!](covers/swap.jpg)
-
-- Steve Light · Favorite Saturday, August 29, 2026 · Mitch
-
----
-
-### 12. It’s the Great Pumpkin, Charlie Brown
-
-![Cover of It's the Great Pumpkin, Charlie Brown](covers/great-pumpkin.jpg)
-
-- Charles M. Schulz · Saturday, August 29, 2026 · Mitch
-
----
-
-### 13. The Hat
-
-![Cover of The Hat](covers/the-hat.jpg)
-
-- Jan Brett · Saturday, August 29, 2026 · Mitch
-
----
-
-### 14. Oh, the Things They Invented!
-
-![Cover of Oh, the Things They Invented](covers/invented.jpg)
-
-- Cat in the Hat Learning Library · Saturday, August 29, 2026 · Mitch
-
----
-
-### 15. The Remember Balloons
-
-![Cover of The Remember Balloons](covers/remember-balloons.jpg)
-
-- Jessie Oliveros · Dana Wulfekotte · Sunday, August 30, 2026 · Mitch
-
----
-
-### 16. Frog Song
-
-![Cover of Frog Song](covers/frog-song.jpg)
-
-- Brenda Z. Guiberson · Gennady Spirin · Sunday, August 30, 2026 · Mitch
-
----
-
-### 17. The Party
-
-![Cover of The Party](covers/the-party.jpg)
-
-- David McPhail · Favorite Sunday, August 30, 2026 · Mitch
-
----
-
-### 18. The Secret of Saying Thanks
-
-![Cover of The Secret of Saying Thanks](covers/saying-thanks.jpg)
-
-- Douglas Wood · Greg Shed · Monday, August 31, 2026 · Mitch
-
----
-
-### 19. Make Way for McCloskey: A Robert McCloskey Treasury
-
-![Cover of Make Way for McCloskey](covers/mccloskey.jpg)
-
-- Robert McCloskey · intro Leonard S. Marcus · ISBN `978-0-670-05934-8`
-- **Read so far:**
-  - *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch (favorite that night: *Make Way for Ducklings*)
-  - *Burt Dow, Deep-Water Man* — Thursday, September 3, 2026 · Mitch
-  - *Homer Price* (the donut-machine story) — Sunday, September 13, 2026 · Mitch
-  - *Lentil* — Thursday, September 17, 2026 · Mitch
-- **Still to read:** *Time of Wonder*; *One Morning in Maine*; *Centerburg Tales*
-
----
-
-### 20. Clam-I-Am!
-
-![Cover of Clam-I-Am](covers/clam-i-am.jpg)
-
-- Cat in the Hat Learning Library · Tish Rabe · Monday, August 31, 2026 · Mitch
-
----
-
-### 21. Miles and Miles of Reptiles
-
-![Cover of Miles and Miles of Reptiles](covers/reptiles.jpg)
-
-- Cat in the Hat Learning Library · Tish Rabe · Tuesday, September 1, 2026 · Mitch
-
----
-
-### 22. I’m the Best Artist in the Ocean!
-
-![Cover of I'm the Best Artist in the Ocean](covers/best-artist.jpg)
-
-- Kevin Sherry · ISBN `978-0-8037-3255-1` · Thursday, September 3, 2026 · Mitch
-
----
-
-### 23. Are We There Yet?
-
-![Cover of Are We There Yet](covers/are-we-there-yet.jpg)
-
-- Dan Santat · Little, Brown · ISBN `978-0-316-19999-5` · Sunday, September 13, 2026 · Mitch
-
----
-
-### 24. Night Is Right for Me
-
-![Cover of Night Is Right for Me](covers/night-is-right.jpg)
-
-- Leslie McGuire · Esther Szegedy · Hooked on Phonics Book 26 · Sunday, September 13, 2026 · Mitch
-
----
-
-## How to add a new book
-
-Copy a card above. Drop the cover JPEG in `covers/` and use `![Cover](covers/short-name.jpg)`. Or send a photo.
-
----
-
-## Daily reading log
-
-Newest day first.
 
 ### 2026-09-17 — Thursday
 
 - **Book:** *Lentil* (from *Make Way for McCloskey*)
 - **Who read:** Mitch
-- **Notes:** Treasury story. Harmonica kid in Alto, Ohio. Still to read in that book: *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
+- **Notes:** Harmonica kid in Alto, Ohio. Still to read in that book: *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
 
 ---
 
@@ -231,7 +30,7 @@ Newest day first.
 
 - **Book:** *Are We There Yet?* (Dan Santat)
 - **Book:** *Night Is Right for Me* (Leslie McGuire / Esther Szegedy)
-- **Book:** *Homer Price* — the donut-machine story
+- **Book:** *Homer Price* — the donut-machine story (from *Make Way for McCloskey*)
 
 ---
 
@@ -249,7 +48,7 @@ Newest day first.
 
 ### 2026-09-03 — Thursday
 
-- **Book:** *Burt Dow, Deep-Water Man*
+- **Book:** *Burt Dow, Deep-Water Man* (from *Make Way for McCloskey*)
 - **Book:** *I’m the Best Artist in the Ocean!*
 
 ---
@@ -263,6 +62,7 @@ Newest day first.
 ### 2026-09-01 — Tuesday
 
 - **Book:** *Miles and Miles of Reptiles*
+- **Notes:** Only book finished before he dozed off.
 
 ---
 
