@@ -164,7 +164,8 @@ Covers are stored in this repo under [`covers/`](covers/).
   - *Make Way for Ducklings* and *Blueberries for Sal* — Monday, August 31, 2026 · Mitch (favorite that night: *Make Way for Ducklings*)
   - *Burt Dow, Deep-Water Man* — Thursday, September 3, 2026 · Mitch
   - *Homer Price* (the donut-machine story) — Sunday, September 13, 2026 · Mitch
-- **Still to read:** *Lentil*; *Time of Wonder*; *One Morning in Maine*; *Centerburg Tales*
+  - *Lentil* — Thursday, September 17, 2026 · Mitch
+- **Still to read:** *Time of Wonder*; *One Morning in Maine*; *Centerburg Tales*
 
 ---
 
@@ -196,14 +197,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Are We There Yet](covers/are-we-there-yet.jpg)
 
-- **Author / illustrator:** Dan Santat
-- **Publisher:** Little, Brown and Company (2016)
-- **ISBN:** `978-0-316-19999-5`
-- **Format:** Hardcover · 40 pages
-- **Ages:** picture book
-- **About:** A long car ride to Grandma’s birthday. Boredom slows time so much it runs backward — pirates, dinosaurs, Egypt — and some pages even turn upside down.
-- **On our bookshelf:** home copy
-- **Read?** [x] — Sunday, September 13, 2026 · Mitch
+- Dan Santat · Little, Brown · ISBN `978-0-316-19999-5` · Sunday, September 13, 2026 · Mitch
 
 ---
 
@@ -211,14 +205,7 @@ Covers are stored in this repo under [`covers/`](covers/).
 
 ![Cover of Night Is Right for Me](covers/night-is-right.jpg)
 
-- **Author:** Leslie McGuire
-- **Illustrated by:** Esther Szegedy
-- **Publisher:** Gateway Learning / Hooked on Phonics Learn to Read Level 4 (Book 26, 1998)
-- **ISBN:** `978-1-887942-47-8`
-- **Format:** Paperback · 24 pages
-- **About:** A nocturnal cat whose friends try to put him on a daytime schedule. Night really is right for him.
-- **On our bookshelf:** home copy
-- **Read?** [x] — Sunday, September 13, 2026 · Mitch
+- Leslie McGuire · Esther Szegedy · Hooked on Phonics Book 26 · Sunday, September 13, 2026 · Mitch
 
 ---
 
@@ -232,19 +219,19 @@ Copy a card above. Drop the cover JPEG in `covers/` and use `![Cover](covers/sho
 
 Newest day first.
 
+### 2026-09-17 — Thursday
+
+- **Book:** *Lentil* (from *Make Way for McCloskey*)
+- **Who read:** Mitch
+- **Notes:** Treasury story. Harmonica kid in Alto, Ohio. Still to read in that book: *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
+
+---
+
 ### 2026-09-13 — Sunday
 
 - **Book:** *Are We There Yet?* (Dan Santat)
-- **Who read:** Mitch
-- **Notes:** Home copy. Little, Brown. ISBN 978-0-316-19999-5.
-
 - **Book:** *Night Is Right for Me* (Leslie McGuire / Esther Szegedy)
-- **Who read:** Mitch
-- **Notes:** Hooked on Phonics Learn to Read, Book 26. ISBN 978-1-887942-47-8.
-
-- **Book:** *Homer Price* — the donut-machine story (from *Make Way for McCloskey*)
-- **Who read:** Mitch
-- **Notes:** Treasury story. Still to read in that book: *Lentil*, *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
+- **Book:** *Homer Price* — the donut-machine story
 
 ---
 
