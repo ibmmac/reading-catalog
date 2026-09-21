@@ -18,6 +18,14 @@ Started: August 27, 2026
 
 ---
 
+### 2026-09-20 — Sunday
+
+- **Book:** *Snow* (Cynthia Rylant · Lauren Stringer)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-0-15-205303-1. Only book tonight — he fell asleep before we could read more.
+
+---
+
 ### 2026-09-17 — Thursday
 
 - **Book:** *Lentil* (from *Make Way for McCloskey*)
