@@ -61,6 +61,7 @@ jobs:
           download best-artist.jpg "https://covers.openlibrary.org/b/isbn/9780803732551-L.jpg" || true
           download are-we-there-yet.jpg "https://covers.openlibrary.org/b/isbn/9780316199995-L.jpg" || true
           download night-is-right.jpg "https://covers.openlibrary.org/b/isbn/9781887942478-L.jpg" || true
+          download snow.jpg "https://covers.openlibrary.org/b/isbn/9780152053031-L.jpg" || true
 
           ls -la covers/
 
