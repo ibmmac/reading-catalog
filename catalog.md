@@ -240,6 +240,20 @@ Started: August 27, 2026
 
 ---
 
+### 24. Snow
+
+![Cover of Snow](covers/snow.jpg)
+
+- **Author:** Cynthia Rylant · **Illustrated by:** Lauren Stringer
+- **Publisher:** Harcourt / Houghton Mifflin Harcourt (2008)
+- **ISBN:** `978-0-15-205303-1`
+- **Format:** Hardcover · 40 pages
+- **About:** A snowy day with a child, a friend, and a grandmother — falling snow, quiet streets, and the feeling of winter.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, September 20, 2026 · Mitch · only book before he fell asleep
+
+---
+
 ## On loan (not a home copy)
 
 ### Chickens
