@@ -62,6 +62,8 @@ jobs:
           download are-we-there-yet.jpg "https://covers.openlibrary.org/b/isbn/9780316199995-L.jpg" || true
           download night-is-right.jpg "https://covers.openlibrary.org/b/isbn/9781887942478-L.jpg" || true
           download snow.jpg "https://covers.openlibrary.org/b/isbn/9780152053031-L.jpg" || true
+          download fishing-with-gubby.jpg "https://covers.openlibrary.org/b/isbn/9781550174977-L.jpg" || true
+          download creepy-underwear.jpg "https://covers.openlibrary.org/b/isbn/9781442402980-L.jpg" || true
 
           ls -la covers/
 
