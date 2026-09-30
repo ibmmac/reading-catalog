@@ -18,6 +18,18 @@ Started: August 27, 2026
 
 ---
 
+### 2026-09-29 — Tuesday
+
+- **Book:** *Fishing with Gubby* (Gary Kent · Kim La Fave)
+- **Who read:** Mitch
+- **Notes:** Home copy. Harbour Publishing. ISBN 978-1-55017-497-7.
+
+- **Book:** *Creepy Pair of Underwear!* (Aaron Reynolds · Peter Brown)
+- **Who read:** Mitch
+- **Notes:** Home copy. Simon & Schuster. ISBN 978-1-4424-0298-0.
+
+---
+
 ### 2026-09-20 — Sunday
 
 - **Book:** *Snow* (Cynthia Rylant · Lauren Stringer)
