@@ -247,10 +247,33 @@ Started: August 27, 2026
 - **Author:** Cynthia Rylant · **Illustrated by:** Lauren Stringer
 - **Publisher:** Harcourt / Houghton Mifflin Harcourt (2008)
 - **ISBN:** `978-0-15-205303-1`
-- **Format:** Hardcover · 40 pages
-- **About:** A snowy day with a child, a friend, and a grandmother — falling snow, quiet streets, and the feeling of winter.
-- **On our bookshelf:** home copy
 - **Read:** Sunday, September 20, 2026 · Mitch · only book before he fell asleep
+
+---
+
+### 25. Fishing with Gubby
+
+![Cover of Fishing with Gubby](covers/fishing-with-gubby.jpg)
+
+- **Story:** Gary Kent · **Illustrated by:** Kim La Fave
+- **Publisher:** Harbour Publishing (2010)
+- **ISBN:** `978-1-55017-497-7`
+- **About:** One salmon season with Gubby, Millie, and cat Puss aboard the troller *Flounder* on the B.C. coast. Part picture book, part graphic novel.
+- **On our bookshelf:** home copy (library-style barcode sticker on cover)
+- **Read:** Tuesday, September 29, 2026 · Mitch
+
+---
+
+### 26. Creepy Pair of Underwear!
+
+![Cover of Creepy Pair of Underwear](covers/creepy-underwear.jpg)
+
+- **Words:** Aaron Reynolds · **Pictures:** Peter Brown
+- **Publisher:** Simon & Schuster (2017)
+- **ISBN:** `978-1-4424-0298-0`
+- **About:** Jasper Rabbit buys glowing green Frankenstein underwear that will not stay thrown away.
+- **On our bookshelf:** home copy
+- **Read:** Tuesday, September 29, 2026 · Mitch
 
 ---
 
