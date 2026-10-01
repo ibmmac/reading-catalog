@@ -1,6 +1,6 @@
 # On the Shelf
 
-Books we own (and one school-library loan), with covers.
+Books we own, plus library loans we have read (kept even after return).
 
 Daily log lives in [read.md](read.md). Covers are in [`covers/`](covers/).
 
@@ -299,9 +299,11 @@ Started: August 27, 2026
 
 ---
 
-## On loan (not a home copy)
+## Returned library loans
 
-### Chickens
+Not on the shelf anymore. Kept so the reading record stays complete.
+
+### Chickens — returned
 
 ![Cover of Chickens](covers/chickens.jpg)
 
@@ -309,6 +311,7 @@ Started: August 27, 2026
 - **Source:** **Mt. View Elementary School library (MVES)** · call number `636.5 MCD`
 - **Favorite:** Saturday, August 29, 2026
 - **Read:** Saturday, August 29, 2026 · Mitch
+- **Status:** Returned to MVES · Thursday, October 1, 2026
 
 ---
 
