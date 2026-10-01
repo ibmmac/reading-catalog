@@ -22,11 +22,11 @@ Started: August 27, 2026
 
 - **Book:** *Frog and Toad Are Friends* (Arnold Lobel)
 - **Who read:** Mitch
-- **Notes:** School copy — *Cleary* written on the cover, Building #19 stamp. I Can Read. ISBN 978-0-06-444020-2.
+- **Notes:** Home copy (used — *Cleary* and Building #19 on the cover). I Can Read. ISBN 978-0-06-444020-2.
 
 - **Book:** Disney Discovery Series *Manners* (Goofy and Minnie read-along)
 - **Who read:** Mitch
-- **Notes:** Vintage 24-page book-and-tape home copy.
+- **Notes:** Vintage 24-page book-and-tape. Home copy.
 
 ---
 
