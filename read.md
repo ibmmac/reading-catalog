@@ -18,6 +18,13 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-01 — Thursday
+
+- **Book:** none logged tonight
+- **Notes:** *Chickens* (Mary Ann McDonald, MVES `636.5 MCD`) returned to the school library. Cover and reading record kept.
+
+---
+
 ### 2026-09-30 — Wednesday
 
 - **Book:** *Frog and Toad Are Friends* (Arnold Lobel)
@@ -114,7 +121,7 @@ Started: August 27, 2026
 
 **Favorites:** *Chickens* and *Swap!*
 
-- **Book:** *Chickens* (MVES library loan)
+- **Book:** *Chickens* (MVES library loan — returned October 1, 2026)
 - **Book:** *Swap!*
 - **Book:** *It’s the Great Pumpkin, Charlie Brown*
 - **Book:** *The Hat*
