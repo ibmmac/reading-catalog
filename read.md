@@ -18,31 +18,36 @@ Started: August 27, 2026
 
 ---
 
+### 2026-09-30 — Wednesday
+
+- **Book:** *Frog and Toad Are Friends* (Arnold Lobel)
+- **Who read:** Mitch
+- **Notes:** School copy — *Cleary* written on the cover, Building #19 stamp. I Can Read. ISBN 978-0-06-444020-2.
+
+- **Book:** Disney Discovery Series *Manners* (Goofy and Minnie read-along)
+- **Who read:** Mitch
+- **Notes:** Vintage 24-page book-and-tape home copy.
+
+---
+
 ### 2026-09-29 — Tuesday
 
 - **Book:** *Fishing with Gubby* (Gary Kent · Kim La Fave)
-- **Who read:** Mitch
-- **Notes:** Home copy. Harbour Publishing. ISBN 978-1-55017-497-7.
-
 - **Book:** *Creepy Pair of Underwear!* (Aaron Reynolds · Peter Brown)
-- **Who read:** Mitch
-- **Notes:** Home copy. Simon & Schuster. ISBN 978-1-4424-0298-0.
 
 ---
 
 ### 2026-09-20 — Sunday
 
 - **Book:** *Snow* (Cynthia Rylant · Lauren Stringer)
-- **Who read:** Mitch
-- **Notes:** Home copy. ISBN 978-0-15-205303-1. Only book tonight — he fell asleep before we could read more.
+- **Notes:** Only book tonight — he fell asleep before we could read more.
 
 ---
 
 ### 2026-09-17 — Thursday
 
 - **Book:** *Lentil* (from *Make Way for McCloskey*)
-- **Who read:** Mitch
-- **Notes:** Harmonica kid in Alto, Ohio. Still to read in that book: *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
+- **Notes:** Still to read in that book: *Time of Wonder*, *One Morning in Maine*, *Centerburg Tales*.
 
 ---
 
@@ -50,13 +55,13 @@ Started: August 27, 2026
 
 - **Book:** *Are We There Yet?* (Dan Santat)
 - **Book:** *Night Is Right for Me* (Leslie McGuire / Esther Szegedy)
-- **Book:** *Homer Price* — the donut-machine story (from *Make Way for McCloskey*)
+- **Book:** *Homer Price* — the donut-machine story
 
 ---
 
 ### 2026-09-05 — Saturday
 
-- **Book:** none · Campfire night. Did not get to read before bed.
+- **Book:** none · Campfire night.
 
 ---
 
@@ -68,7 +73,7 @@ Started: August 27, 2026
 
 ### 2026-09-03 — Thursday
 
-- **Book:** *Burt Dow, Deep-Water Man* (from *Make Way for McCloskey*)
+- **Book:** *Burt Dow, Deep-Water Man*
 - **Book:** *I’m the Best Artist in the Ocean!*
 
 ---
@@ -82,7 +87,6 @@ Started: August 27, 2026
 ### 2026-09-01 — Tuesday
 
 - **Book:** *Miles and Miles of Reptiles*
-- **Notes:** Only book finished before he dozed off.
 
 ---
 
