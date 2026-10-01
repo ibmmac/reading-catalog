@@ -65,7 +65,6 @@ jobs:
           download fishing-with-gubby.jpg "https://covers.openlibrary.org/b/isbn/9781550174977-L.jpg" || true
           download creepy-underwear.jpg "https://covers.openlibrary.org/b/isbn/9781442402980-L.jpg" || true
           download frog-and-toad.jpg "https://covers.openlibrary.org/b/isbn/9780064440202-L.jpg" || true
-          download disney-manners.jpg "https://images-na.ssl-images-amazon.com/images/P/0064440206.01.LZZZZZZZ.jpg" || true
 
           ls -la covers/
 
