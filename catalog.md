@@ -1,6 +1,6 @@
 # On the Shelf
 
-Books we own (and school-library loans), with covers.
+Books we own (and one school-library loan), with covers.
 
 Daily log lives in [read.md](read.md). Covers are in [`covers/`](covers/).
 
@@ -280,7 +280,21 @@ Started: August 27, 2026
 - **Series:** Disney Discovery Series · 24-page read-along book and tape
 - **Characters:** Goofy and Minnie at the table
 - **Publisher:** Walt Disney Productions / Disneyland Records (mid-1980s)
-- **On our bookshelf:** vintage home copy
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, September 30, 2026 · Mitch
+
+---
+
+### 28. Frog and Toad Are Friends
+
+![Cover of Frog and Toad Are Friends](covers/frog-and-toad.jpg)
+
+- **Story and pictures:** Arnold Lobel
+- **Publisher:** Harper / I Can Read (Level 2)
+- **ISBN (this edition):** `978-0-06-444020-2`
+- **About:** Five short stories — spring, the story, the lost button, the swim, the letter. Caldecott Honor.
+- **This copy:** name *Cleary* written on the cover; Building #19 stamp (ours now, not a loan)
+- **On our bookshelf:** home copy
 - **Read:** Wednesday, September 30, 2026 · Mitch
 
 ---
@@ -295,19 +309,6 @@ Started: August 27, 2026
 - **Source:** **Mt. View Elementary School library (MVES)** · call number `636.5 MCD`
 - **Favorite:** Saturday, August 29, 2026
 - **Read:** Saturday, August 29, 2026 · Mitch
-
----
-
-### Frog and Toad Are Friends
-
-![Cover of Frog and Toad Are Friends](covers/frog-and-toad.jpg)
-
-- **Story and pictures:** Arnold Lobel
-- **Publisher:** Harper / I Can Read (Level 2)
-- **ISBN (this edition):** `978-0-06-444020-2`
-- **About:** Five short stories — spring, the story, the lost button, the swim, the letter. Caldecott Honor.
-- **This copy:** name *Cleary* written on the cover; school stamp Building #19
-- **Read:** Wednesday, September 30, 2026 · Mitch
 
 ---
 
