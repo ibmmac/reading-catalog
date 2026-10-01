@@ -1,6 +1,6 @@
 # On the Shelf
 
-Books we own (and one school-library loan), with covers.
+Books we own (and school-library loans), with covers.
 
 Daily log lives in [read.md](read.md). Covers are in [`covers/`](covers/).
 
@@ -258,8 +258,6 @@ Started: August 27, 2026
 - **Story:** Gary Kent · **Illustrated by:** Kim La Fave
 - **Publisher:** Harbour Publishing (2010)
 - **ISBN:** `978-1-55017-497-7`
-- **About:** One salmon season with Gubby, Millie, and cat Puss aboard the troller *Flounder* on the B.C. coast. Part picture book, part graphic novel.
-- **On our bookshelf:** home copy (library-style barcode sticker on cover)
 - **Read:** Tuesday, September 29, 2026 · Mitch
 
 ---
@@ -271,9 +269,19 @@ Started: August 27, 2026
 - **Words:** Aaron Reynolds · **Pictures:** Peter Brown
 - **Publisher:** Simon & Schuster (2017)
 - **ISBN:** `978-1-4424-0298-0`
-- **About:** Jasper Rabbit buys glowing green Frankenstein underwear that will not stay thrown away.
-- **On our bookshelf:** home copy
 - **Read:** Tuesday, September 29, 2026 · Mitch
+
+---
+
+### 27. Disney Discovery Series Presents *Manners*
+
+![Cover of Disney Manners](covers/disney-manners.jpg)
+
+- **Series:** Disney Discovery Series · 24-page read-along book and tape
+- **Characters:** Goofy and Minnie at the table
+- **Publisher:** Walt Disney Productions / Disneyland Records (mid-1980s)
+- **On our bookshelf:** vintage home copy
+- **Read:** Wednesday, September 30, 2026 · Mitch
 
 ---
 
@@ -287,6 +295,19 @@ Started: August 27, 2026
 - **Source:** **Mt. View Elementary School library (MVES)** · call number `636.5 MCD`
 - **Favorite:** Saturday, August 29, 2026
 - **Read:** Saturday, August 29, 2026 · Mitch
+
+---
+
+### Frog and Toad Are Friends
+
+![Cover of Frog and Toad Are Friends](covers/frog-and-toad.jpg)
+
+- **Story and pictures:** Arnold Lobel
+- **Publisher:** Harper / I Can Read (Level 2)
+- **ISBN (this edition):** `978-0-06-444020-2`
+- **About:** Five short stories — spring, the story, the lost button, the swim, the letter. Caldecott Honor.
+- **This copy:** name *Cleary* written on the cover; school stamp Building #19
+- **Read:** Wednesday, September 30, 2026 · Mitch
 
 ---
 
