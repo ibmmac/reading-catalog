@@ -299,6 +299,44 @@ Started: August 27, 2026
 
 ---
 
+### 29. The Tin Forest
+
+![Cover of The Tin Forest](covers/tin-forest.jpg)
+
+- **Author:** Helen Ward · **Illustrated by:** Wayne Anderson
+- **Publisher:** Puffin / Penguin (this copy)
+- **ISBN:** `978-0-14-250156-6`
+- **About:** An old man in a scrap-metal wasteland builds a forest of tin, and real life follows the dream.
+- **On our bookshelf:** home copy
+- **Read:** Thursday, October 1, 2026 · Mitch
+
+---
+
+### 30. The Saints, Vol. I
+
+![Cover of The Saints Vol. I](covers/saints-vol-1.jpg)
+
+- **Series:** Little Angel Series · Regina Press
+- **ISBN (this edition):** `978-0-88271-206-2`
+- **Cover:** yellow, four saints around a cross (Francis with a bird, a girl with an apparition, a woman in blue, a bishop with a crozier)
+- **On our bookshelf:** home copy
+- **Read:** Thursday, October 1, 2026 · Mitch
+
+---
+
+### 31. Cowardly Clyde
+
+![Cover of Cowardly Clyde](covers/cowardly-clyde.jpg)
+
+- **Author / illustrator:** Bill Peet
+- **Publisher:** Houghton Mifflin
+- **ISBN (paperback):** `978-0-395-36171-9`
+- **About:** A war horse who is scared of everything, and still goes with his knight to face the ogre.
+- **On our bookshelf:** home copy
+- **Read:** Thursday, October 1, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.

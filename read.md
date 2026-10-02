@@ -20,8 +20,19 @@ Started: August 27, 2026
 
 ### 2026-10-01 — Thursday
 
-- **Book:** none logged tonight
-- **Notes:** *Chickens* (Mary Ann McDonald, MVES `636.5 MCD`) returned to the school library. Cover and reading record kept.
+- **Book:** *The Tin Forest* (Helen Ward · Wayne Anderson)
+- **Who read:** Mitch
+- **Notes:** Home copy. Puffin. ISBN 978-0-14-250156-6.
+
+- **Book:** *The Saints, Vol. I* (Little Angel Series, Regina Press)
+- **Who read:** Mitch
+- **Notes:** Home copy. Yellow cover, four saints. ISBN 978-0-88271-206-2.
+
+- **Book:** *Cowardly Clyde* (Bill Peet)
+- **Who read:** Mitch
+- **Notes:** Home copy. Houghton Mifflin. ISBN 978-0-395-36171-9.
+
+- **Notes:** *Chickens* (Mary Ann McDonald, MVES `636.5 MCD`) returned to the school library earlier today. Cover and reading record kept.
 
 ---
 
