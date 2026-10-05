@@ -337,6 +337,33 @@ Started: August 27, 2026
 
 ---
 
+### 32. What Can It Be? Riddles About Baby Animals
+
+![Cover of Riddles About Baby Animals](covers/baby-animals.jpg)
+
+- **Series:** What Can It Be?
+- **Publisher:** Silver Press
+- **ISBN:** `978-0-671-68577-5` (`0-671-68577-5`)
+- **About:** Photo riddles — hare, fawn, kid, kitten — turn the page for the answer and a science fact.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 4, 2026 · Mitch
+
+---
+
+### 33. Sleep Is for Everyone
+
+![Cover of Sleep Is for Everyone](covers/sleep-is-for-everyone.jpg)
+
+- **Author:** Paul Showers · **Illustrated by:** Wendy Watson
+- **Series:** Let’s-Read-and-Find-Out Science, Stage 1
+- **Publisher:** HarperTrophy
+- **ISBN:** `978-0-06-445141-3`
+- **About:** Why bodies need sleep, from babies to grown-ups.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 4, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.

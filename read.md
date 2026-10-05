@@ -18,6 +18,18 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-04 — Sunday
+
+- **Book:** *What Can It Be? Riddles About Baby Animals* (Silver Press)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 0-671-68577-5.
+
+- **Book:** *Sleep Is for Everyone* (Paul Showers · Wendy Watson)
+- **Who read:** Mitch
+- **Notes:** Home copy. Let’s-Read-and-Find-Out Science, Stage 1. HarperTrophy. ISBN 978-0-06-445141-3.
+
+---
+
 ### 2026-10-01 — Thursday
 
 - **Book:** *The Tin Forest* (Helen Ward · Wayne Anderson)
