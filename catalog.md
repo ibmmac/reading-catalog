@@ -364,6 +364,32 @@ Started: August 27, 2026
 
 ---
 
+### 34. Patrick: Patron Saint of Ireland
+
+![Cover of Patrick](covers/patrick.jpg)
+
+- **Author / illustrator:** Tomie dePaola
+- **This copy:** Troll Special Edition (back cover has the sheep-on-a-checkerboard picture; *Cleary* written on it)
+- **About:** Patrick’s life in Ireland, told in dePaola’s picture-book style — crozier, shamrock, and the snake.
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, October 7, 2026 · Mitch
+
+---
+
+### 35. Sleepy Dog
+
+![Cover of Sleepy Dog](covers/sleepy-dog.jpg)
+
+- **Author:** Harriet Ziefert · **Illustrated by:** Norman Gorbaty
+- **Series:** Step into Reading, Step 1 (Ready to Read) · F&P level D
+- **Publisher:** Random House
+- **ISBN:** `978-0-394-86877-6`
+- **About:** Sleepy Dog gets a good-night kiss and goes to bed.
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, October 7, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.

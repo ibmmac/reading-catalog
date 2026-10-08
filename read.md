@@ -18,6 +18,18 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-07 — Wednesday
+
+- **Book:** *Patrick: Patron Saint of Ireland* (Tomie dePaola)
+- **Who read:** Mitch
+- **Notes:** Home copy. Troll Special Edition. *Cleary* written on the back.
+
+- **Book:** *Sleepy Dog* (Harriet Ziefert · Norman Gorbaty)
+- **Who read:** Mitch
+- **Notes:** Home copy. Step into Reading, Step 1. ISBN 978-0-394-86877-6.
+
+---
+
 ### 2026-10-04 — Sunday
 
 - **Book:** *What Can It Be? Riddles About Baby Animals* (Silver Press)
