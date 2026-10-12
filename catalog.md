@@ -390,6 +390,19 @@ Started: August 27, 2026
 
 ---
 
+### 36. Papa’s Mechanical Fish
+
+![Cover of Papa's Mechanical Fish](covers/papas-mechanical-fish.jpg)
+
+- **Author:** Candace Fleming · **Pictures by:** Boris Kulikov
+- **Publisher:** Farrar, Straus & Giroux (2013)
+- **ISBN:** `978-0-374-39908-5`
+- **About:** Papa builds a submarine after Virena asks what it is like to be a fish. Based on inventor Lodner Phillips and his Lake Michigan boat.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 11, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.

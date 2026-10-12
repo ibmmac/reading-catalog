@@ -18,6 +18,14 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-11 — Sunday
+
+- **Book:** *Papa’s Mechanical Fish* (Candace Fleming · Boris Kulikov)
+- **Who read:** Mitch
+- **Notes:** Home copy. Farrar, Straus & Giroux. ISBN 978-0-374-39908-5. Only book tonight.
+
+---
+
 ### 2026-10-07 — Wednesday
 
 - **Book:** *Patrick: Patron Saint of Ireland* (Tomie dePaola)
