@@ -399,7 +399,33 @@ Started: August 27, 2026
 - **ISBN:** `978-0-374-39908-5`
 - **About:** Papa builds a submarine after Virena asks what it is like to be a fish. Based on inventor Lodner Phillips and his Lake Michigan boat.
 - **On our bookshelf:** home copy
-- **Read:** Sunday, October 11, 2026 · Mitch
+- **Read:** Sunday, October 11, 2026 · Mitch · again Monday, October 12, 2026
+
+---
+
+### 37. Llama Llama Holiday Drama
+
+![Cover of Llama Llama Holiday Drama](covers/llama-llama-holiday.jpg)
+
+- **Author / illustrator:** Anna Dewdney
+- **Publisher:** Viking
+- **ISBN:** `978-0-670-01161-2`
+- **About:** Llama Llama gets worked up waiting for the holidays, then remembers what the day is really for.
+- **On our bookshelf:** home copy
+- **Read:** Monday, October 12, 2026 · Mitch
+
+---
+
+### 38. Snowmen at Night
+
+![Cover of Snowmen at Night](covers/snowmen-at-night.jpg)
+
+- **Author:** Caralyn Buehner · **Pictures by:** Mark Buehner
+- **Publisher:** Dial Books (2002)
+- **ISBN:** `978-0-8037-2550-8`
+- **About:** What snowmen do after the kids go inside — skating, sledding, and a snowball game under the moon.
+- **On our bookshelf:** home copy
+- **Read:** Monday, October 12, 2026 · Mitch
 
 ---
 

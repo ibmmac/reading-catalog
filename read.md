@@ -18,6 +18,22 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-12 — Monday
+
+- **Book:** *Llama Llama Holiday Drama* (Anna Dewdney)
+- **Who read:** Mitch
+- **Notes:** Home copy. Viking. ISBN 978-0-670-01161-2.
+
+- **Book:** *Snowmen at Night* (Caralyn Buehner · Mark Buehner)
+- **Who read:** Mitch
+- **Notes:** Home copy. Dial Books. ISBN 978-0-8037-2550-8.
+
+- **Book:** *Papa’s Mechanical Fish* (Candace Fleming · Boris Kulikov)
+- **Who read:** Mitch
+- **Notes:** Re-read. Home copy. First read Sunday, October 11.
+
+---
+
 ### 2026-10-11 — Sunday
 
 - **Book:** *Papa’s Mechanical Fish* (Candace Fleming · Boris Kulikov)
