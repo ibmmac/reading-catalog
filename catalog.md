@@ -469,6 +469,48 @@ Started: August 27, 2026
 
 ---
 
+### 42. Splosh
+
+![Cover of Splosh](covers/splosh.jpg)
+
+- **Series:** Ready-set-go / The Story Box
+- **Authors:** Joy Cowley · June Melser · Phillip Webb
+- **Publisher:** Shortland Publications
+- **ISBN:** `978-0-86867-070-6`
+- **About:** Farm animals and a hot-air balloon.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 18, 2026 · Mitch
+
+---
+
+### 43. Oh, the Pets You Can Get!
+
+![Cover of Oh, the Pets You Can Get!](covers/oh-the-pets.jpg)
+
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Tish Rabe · **Illustrated by:** Aristides Ruiz and Joe Mathieu
+- **Publisher:** Random House
+- **ISBN:** `978-0-375-82278-0`
+- **This copy:** “Available exclusively in the Indian Subcontinent”
+- **About:** Pets and animal friends, told in Seuss-style rhyme.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 18, 2026 · Mitch
+
+---
+
+### 44. Mitch to the Rescue
+
+![Cover of Mitch to the Rescue](covers/mitch-to-the-rescue.jpg)
+
+- **Story:** Annette Smith · **Illustrations by:** Mark Wilson
+- **Publisher:** Nelson Price Milburn
+- **ISBN:** `978-0-7635-1962-9`
+- **About:** Mitch and his dad rescue a duckling from a canoe.
+- **On our bookshelf:** home copy
+- **Read:** Sunday, October 18, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.

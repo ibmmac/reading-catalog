@@ -18,6 +18,22 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-18 — Sunday
+
+- **Book:** *Splosh* (Joy Cowley · June Melser · Phillip Webb)
+- **Who read:** Mitch
+- **Notes:** Home copy. Ready-set-go / Story Box. ISBN 978-0-86867-070-6.
+
+- **Book:** *Oh, the Pets You Can Get!* (Tish Rabe)
+- **Who read:** Mitch
+- **Notes:** Home copy. Cat in the Hat’s Learning Library. Indian Subcontinent edition. ISBN 978-0-375-82278-0.
+
+- **Book:** *Mitch to the Rescue* (Annette Smith · Mark Wilson)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-0-7635-1962-9.
+
+---
+
 ### 2026-10-17 — Saturday
 
 - **Book:** *The Snowy Day* (Anna Milbourne · Elena Temporin)
