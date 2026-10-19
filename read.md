@@ -18,6 +18,22 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-17 — Saturday
+
+- **Book:** *The Snowy Day* (Anna Milbourne · Elena Temporin)
+- **Who read:** Mitch
+- **Notes:** Home copy. Usborne / Scholastic. *Cleary* on the cover. Not the Ezra Jack Keats book.
+
+- **Book:** *Inch by Inch: The Garden Song* (David Mallett · Ora Eitan)
+- **Who read:** Mitch
+- **Notes:** Home copy. HarperTrophy. ISBN 978-0-06-443481-2.
+
+- **Book:** *Dear Zoo* (Rod Campbell)
+- **Who read:** Mitch
+- **Notes:** Home copy. Lift-the-flap, 30 years edition.
+
+---
+
 ### 2026-10-12 — Monday
 
 - **Book:** *Llama Llama Holiday Drama* (Anna Dewdney)

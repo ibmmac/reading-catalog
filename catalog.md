@@ -429,6 +429,46 @@ Started: August 27, 2026
 
 ---
 
+### 39. The Snowy Day
+
+![Cover of The Snowy Day](covers/snowy-day-milbourne.jpg)
+
+- **Author:** Anna Milbourne · **Illustrated by:** Elena Temporin
+- **Publisher:** Usborne · this copy Scholastic
+- **ISBN (Usborne):** `978-0-7460-6978-3`
+- **About:** A snowy day with children, a snowman, a fox, and squirrels. Not the Ezra Jack Keats book.
+- **This copy:** *Cleary* written on the cover
+- **On our bookshelf:** home copy
+- **Read:** Saturday, October 17, 2026 · Mitch
+
+---
+
+### 40. Inch by Inch: The Garden Song
+
+![Cover of Inch by Inch](covers/inch-by-inch.jpg)
+
+- **Author:** David Mallett · **Pictures by:** Ora Eitan
+- **Publisher:** HarperTrophy
+- **ISBN:** `978-0-06-443481-2`
+- **About:** Picture-book version of the garden song — inch by inch, row by row.
+- **On our bookshelf:** home copy
+- **Read:** Saturday, October 17, 2026 · Mitch
+
+---
+
+### 41. Dear Zoo
+
+![Cover of Dear Zoo](covers/dear-zoo.jpg)
+
+- **Author / illustrator:** Rod Campbell
+- **Format:** Lift-the-flap · 30 years edition
+- **ISBN (30th anniversary):** `978-0-7181-9267-9`
+- **About:** A child writes to the zoo for a pet; the animals keep arriving until the right one does.
+- **On our bookshelf:** home copy
+- **Read:** Saturday, October 17, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.
