@@ -18,6 +18,22 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-28 — Wednesday
+
+- **Book:** *Diggersaurs Explore* (Michael Whaite)
+- **Who read:** Mitch
+- **Notes:** Home copy. ISBN 978-1-9848-5017-1.
+
+- **Book:** *Would You Rather Be a Tadpole?* (Bonnie Worth · Aristides Ruiz and Joe Mathieu)
+- **Who read:** Mitch
+- **Notes:** Home copy. Cat in the Hat’s Learning Library. Indian Subcontinent edition.
+
+- **Book:** *Roadwork* (Sally Sutton · Brian Lovelock)
+- **Who read:** Mitch
+- **Notes:** Home copy.
+
+---
+
 ### 2026-10-18 — Sunday
 
 - **Book:** *Splosh* (Joy Cowley · June Melser · Phillip Webb)

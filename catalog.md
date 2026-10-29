@@ -511,6 +511,44 @@ Started: August 27, 2026
 
 ---
 
+### 45. Diggersaurs Explore
+
+![Cover of Diggersaurs Explore](covers/diggersaurs-explore.jpg)
+
+- **Author / illustrator:** Michael Whaite
+- **Series:** Diggersaurs
+- **Publisher:** Random House (2020)
+- **ISBN:** `978-1-9848-5017-1`
+- **About:** Diggersaurs go on a treasure hunt — wreckersaurus, dumpersaurus, dozersaurus, and more.
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, October 28, 2026 · Mitch
+
+---
+
+### 46. Would You Rather Be a Tadpole?
+
+![Cover of Would You Rather Be a Tadpole?](covers/tadpole.jpg)
+
+- **Series:** The Cat in the Hat’s Learning Library
+- **Author:** Bonnie Worth · **Illustrated by:** Aristides Ruiz and Joe Mathieu
+- **About:** Pond life and how a tadpole becomes a frog.
+- **This copy:** “Available exclusively in the Indian Subcontinent”
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, October 28, 2026 · Mitch
+
+---
+
+### 47. Roadwork
+
+![Cover of Roadwork](covers/roadwork.jpg)
+
+- **Author:** Sally Sutton · **Illustrated by:** Brian Lovelock
+- **About:** Building a road, from planning to the finished street. Rhythmic “plan the road / mark it on the map” text.
+- **On our bookshelf:** home copy
+- **Read:** Wednesday, October 28, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.
