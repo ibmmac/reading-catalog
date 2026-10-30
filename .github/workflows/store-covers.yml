@@ -38,6 +38,7 @@ jobs:
             return 1
           }
 
+          # Books 1-30 (original set)
           download night-before-kindergarten.jpg "https://images.randomhouse.com/cover/9780448425009" || true
           download cowboy-car.jpg "https://images-na.ssl-images-amazon.com/images/P/1503950972.01.LZZZZZZZ.jpg" || true
           download except-antarctica.jpg "https://cover.hoopladigital.com/vsa_9781728233277_270.jpeg" || true
@@ -65,6 +66,31 @@ jobs:
           download fishing-with-gubby.jpg "https://covers.openlibrary.org/b/isbn/9781550174977-L.jpg" || true
           download creepy-underwear.jpg "https://covers.openlibrary.org/b/isbn/9781442402980-L.jpg" || true
           download frog-and-toad.jpg "https://covers.openlibrary.org/b/isbn/9780064440202-L.jpg" || true
+
+          # Books 31-50 (added later; web URLs are best-effort fallbacks)
+          download cowardly-clyde.jpg "https://covers.openlibrary.org/b/isbn/9780395361719-L.jpg" || true
+          download disney-manners.jpg "https://covers.openlibrary.org/b/isbn/9781558901234-L.jpg" || true
+          download tin-forest.jpg "https://covers.openlibrary.org/b/isbn/9780142501566-L.jpg" || true
+          download saints-vol-1.jpg "https://covers.openlibrary.org/b/issn/0882712062-L.jpg" || true
+          download baby-animals.jpg "https://covers.openlibrary.org/b/isbn/9780671685775-L.jpg" || true
+          download sleep-is-for-everyone.jpg "https://covers.openlibrary.org/b/isbn/9780064451413-L.jpg" || true
+          download patrick.jpg "https://covers.openlibrary.org/b/isbn/9780816768475-L.jpg" || true
+          download sleepy-dog.jpg "https://covers.openlibrary.org/b/isbn/9780394868776-L.jpg" || true
+          download papas-mechanical-fish.jpg "https://covers.openlibrary.org/b/isbn/9780374399085-L.jpg" || true
+          download llama-llama-holiday.jpg "https://covers.openlibrary.org/b/isbn/9780670011612-L.jpg" || true
+          download snowmen-at-night.jpg "https://covers.openlibrary.org/b/isbn/9780803725508-L.jpg" || true
+          download snowy-day-milbourne.jpg "https://covers.openlibrary.org/b/isbn/9780746069783-L.jpg" || true
+          download inch-by-inch.jpg "https://covers.openlibrary.org/b/isbn/9780064434812-L.jpg" || true
+          download dear-zoo.jpg "https://covers.openlibrary.org/b/isbn/9780688072678-L.jpg" || true
+          download splosh.jpg "https://covers.openlibrary.org/b/isbn/9780868670706-L.jpg" || true
+          download oh-the-pets.jpg "https://covers.openlibrary.org/b/isbn/9780375822780-L.jpg" || true
+          download mitch-to-the-rescue.jpg "https://covers.openlibrary.org/b/isbn/9780763519629-L.jpg" || true
+          download diggersaurs-explore.jpg "https://covers.openlibrary.org/b/isbn/9781984850171-L.jpg" || true
+          download tadpole.jpg "https://covers.openlibrary.org/b/isbn/9780007284856-L.jpg" || true
+          download roadwork.jpg "https://covers.openlibrary.org/b/isbn/9780763693934-L.jpg" || true
+          download bears-on-wheels.jpg "https://covers.openlibrary.org/b/isbn/9780394800415-L.jpg" || true
+          download what-were-you-thinking.jpg "https://covers.openlibrary.org/b/isbn/9781934490969-L.jpg" || true
+          download fort-building-time.jpg "https://covers.openlibrary.org/b/isbn/9780399556579-L.jpg" || true
 
           ls -la covers/
 
