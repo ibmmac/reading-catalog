@@ -18,6 +18,22 @@ Started: August 27, 2026
 
 ---
 
+### 2026-10-29 — Thursday
+
+- **Book:** *Bears on Wheels* (Stan and Jan Berenstain)
+- **Who read:** Mitch
+- **Notes:** Home copy. Bright and Early counting book.
+
+- **Book:** *What Were You Thinking?* (Bryan Smith · Lisa M. Griffin)
+- **Who read:** Mitch
+- **Notes:** Home copy. Boys Town Press. ISBN 978-1-934490-96-9.
+
+- **Book:** *Fort Building Time* (Megan Wagner Lloyd · Abigail Halpin)
+- **Who read:** Mitch
+- **Notes:** Home copy, with library stamp `CH EASY NATURE SEASONS LLOYD`. Knopf. ISBN 978-0-399-55657-9.
+
+---
+
 ### 2026-10-28 — Wednesday
 
 - **Book:** *Diggersaurs Explore* (Michael Whaite)

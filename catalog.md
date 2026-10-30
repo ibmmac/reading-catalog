@@ -549,6 +549,45 @@ Started: August 27, 2026
 
 ---
 
+### 48. Bears on Wheels
+
+![Cover of Bears on Wheels](covers/bears-on-wheels.jpg)
+
+- **Authors / illustrators:** Stan and Jan Berenstain
+- **Series:** Bright and Early Books for Beginning Beginners · A Bright and Early Counting Book
+- **About:** One bear on a unicycle, then more bears and more wheels, counting up.
+- **On our bookshelf:** home copy
+- **Read:** Thursday, October 29, 2026 · Mitch
+
+---
+
+### 49. What Were You Thinking?
+
+![Cover of What Were You Thinking?](covers/what-were-you-thinking.jpg)
+
+- **Written by:** Bryan Smith · **Illustrated by:** Lisa M. Griffin
+- **Publisher:** Boys Town Press
+- **ISBN:** `978-1-934490-96-9`
+- **About:** A story about learning to control impulses. First book in the Executive FUNction series.
+- **On our bookshelf:** home copy
+- **Read:** Thursday, October 29, 2026 · Mitch
+
+---
+
+### 50. Fort Building Time
+
+![Cover of Fort Building Time](covers/fort-building-time.jpg)
+
+- **Author:** Megan Wagner Lloyd · **Pictures by:** Abigail Halpin
+- **Publisher:** Knopf (2017)
+- **ISBN:** `978-0-399-55657-9`
+- **About:** Building forts through the seasons.
+- **This copy:** library stamp `CH EASY NATURE SEASONS LLOYD` (tell me if this is a loan)
+- **On our bookshelf:** home copy (stamp noted)
+- **Read:** Thursday, October 29, 2026 · Mitch
+
+---
+
 ## Returned library loans
 
 Not on the shelf anymore. Kept so the reading record stays complete.
