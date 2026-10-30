@@ -35,7 +35,11 @@ When asked to update the catalog:
 1. **Read both** `catalog.md` and `read.md` before editing. The next book number is one past the highest in `catalog.md`.
 2. **Add books to `catalog.md`** as numbered cards (### N. Title) with author, ISBN, about, and a cover image line: `![Cover of Title](covers/short-name.jpg)`.
 3. **Add the night to `read.md`** under a `### YYYY-MM-DD — weekday` heading at the top of the log, with Book / Who read / Notes lines.
-4. **Store covers as local JPEGs** in `covers/`. Prefer a cropped photo of the actual copy. Web URLs are fallbacks only — Open Library often returns 1x1 placeholder GIFs, so always check file size (>2 KB) before committing.
+4. **Store covers as local JPEGs** in `covers/`.
+   - **Prefer a CDN cover** when one exists (Amazon, Open Library, publisher site, Penguin Random House, etc.). Download it, check it is a real image (>2 KB, not a 1×1 GIF), and save it as `covers/short-name.jpg`.
+   - Resize to about **500 px** on the long side (JPEG quality ~82) so it matches the rest of the shelf.
+   - Use a cropped phone photo of the actual copy only if no usable CDN cover is available.
+   - Always verify the file before committing.
 5. **Do not renumber** existing cards. Append only.
 6. **Keep `covers/README.md`** in sync: every file in `covers/` must appear in its table.
 7. One commit per update session is fine. Message style: `Add <title> (#N) and log <date>`.
